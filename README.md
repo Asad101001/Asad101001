@@ -5,6 +5,11 @@
 Hi, I'm Asad — a certified data scientist and an in-progress developer, currently focused on writing better Python code with a strong foundation in object-oriented programming.
 I began my Python journey through data science, but my focus has since shifted toward building well-structured, maintainable software rooted in core programming principles.
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZjNmwxbjdzN2t3NW5yZTBicGV6NWtwNXVucWx5NDVqcHhzb2NnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="500"/>
+</div>
+
+
 ---
 
 ## 🔭 Currently Working On
