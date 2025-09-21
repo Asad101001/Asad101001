@@ -72,10 +72,9 @@ Nothing please, I'm a terrible explainer
 
 <!-- Row 2 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&theme=shadow_green&hide_border=false&layout=compact" height="150"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asad101001&theme=github_dark&utcOffset=5" height="150"/>
 
 <!-- Row 3 (Full Width) -->
-<img src="https://github.com/Asad101001/Asad101001/blob/output/github-contribution-grid-snake.svg" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asad101001&theme=github_dark&utcOffset=5" height="150"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad101001&theme=github-compact&hide_border=false&area=true" width="95%"/>
 
 <!-- Row 4 (Trophies) -->
