@@ -43,24 +43,37 @@ Hi, I'm Asad — a certified data scientist and in-progress developer, currently
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
-<div align="center">
+<table align="center" cellpadding="6">
+  <tr>
+    <td align="center">
+      <img alt="Streak" src="https://streak-stats.demolab.com?user=Asad101001&theme=radical&hide_border=false" height="120">
+    </td>
+  </tr>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad101001&theme=radical&hide_border=false" height="120" width="70%"/>  
+  <tr>
+    <td align="center">
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&theme=radical&layout=compact&hide_border=false" height="120">
+    </td>
+  </tr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&theme=radical&layout=compact&hide_border=false" height="120" width="70%"/>  
+  <tr>
+    <td align="center">
+      <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asad101001&theme=radical" height="120">
+    </td>
+  </tr>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asad101001&theme=radical" height="120" width="70%"/>  
+  <tr>
+    <td align="center">
+      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Asad101001&theme=radical&hide_border=false&area=true" height="120">
+    </td>
+  </tr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad101001&theme=radical&hide_border=false&area=true" height="120" width="80%"/>  
+  <tr>
+    <td align="center">
+      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Asad101001&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1" height="120">
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Asad101001&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1" height="120" width="80%"/>  
-
-</div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Asad101001&icon=3&color=0)](https://visitcount.itsvg.in)
-
-</div>
