@@ -46,17 +46,19 @@ Hi, I'm Asad — a certified data scientist and in-progress developer, currently
 ## 📊 GitHub Analytics
 
 <table align="center" cellpadding="6">
-  <tr>
-    <td align="center">
-      <img alt="Streak" src="https://streak-stats.demolab.com?user=Asad101001&theme=radical&hide_border=false" height="120">
-    </td>
-  </tr>
 
   <tr>
     <td align="center">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&theme=radical&layout=compact&hide_border=false" height="120">
+      <img alt="Summary Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asad101001&theme=github_dark&v=1" height="120">
     </td>
   </tr>
+  
+  <tr>
+    <td align="center">
+      <img alt="Streak (Nirzak)" src="https://nirzak-streak-stats.vercel.app/?user=Asad101001&theme=shadow_green&hide_border=false&v=1" height="120">
+    </td>
+  </tr>
+
 
   <tr>
     <td align="center">
@@ -75,5 +77,13 @@ Hi, I'm Asad — a certified data scientist and in-progress developer, currently
       <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Asad101001&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1" height="120">
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&theme=radical&layout=compact&hide_border=false" height="120">
+    </td>
+  </tr>
+  
 </table>
+
 
