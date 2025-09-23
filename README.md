@@ -59,7 +59,6 @@ Hi, I'm Asad — a certified data scientist and in-progress developer, currently
     </td>
   </tr>
 
-
   <tr>
     <td align="center">
       <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asad101001&theme=radical" height="120">
@@ -74,13 +73,13 @@ Hi, I'm Asad — a certified data scientist and in-progress developer, currently
 
   <tr>
     <td align="center">
-      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Asad101001&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1" height="120">
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&theme=radical&layout=compact&hide_border=false" height="120">
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&theme=radical&layout=compact&hide_border=false" height="120">
+      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Asad101001&theme=radical&layout=compact&no-frame=true&margin-w=15&margin-h=15&row=1" height="120">
     </td>
   </tr>
   
