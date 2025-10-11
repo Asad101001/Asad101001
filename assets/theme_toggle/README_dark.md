@@ -76,24 +76,11 @@
 ---
 
 ## 📊 GitHub Overview  
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Asad101001&theme=shadow_green&hide_border=false" height="150"/>  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asad101001&theme=github_dark" height="150"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&theme=radical&layout=compact&hide_border=false" height="150" width="70%"/>  
-  <img src="https://github-profile-trophy.vercel.app/?username=Asad101001&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1" height="120" width="80%"/>  
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad101001&theme=react-dark&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF&hide_border=true" width="95%"/>
-</p>
 
 <p align="center">
-
   ![Profile Views](https://komarev.com/ghpvc/?username=Asad101001&color=00FFB3)
-
   ![Followers](https://img.shields.io/github/followers/Asad101001?label=Followers&style=flat-square&logo=github&color=00FFB3)
-
   ![Stars](https://img.shields.io/github/stars/Asad101001?style=flat-square&logo=github&color=00FFB3)
-  
   ![Commit Activity](https://img.shields.io/github/commit-activity/m/Asad101001/Asad101001?style=flat-square&color=00FFB3)
 </p>
 
@@ -111,12 +98,12 @@
 
 <!-- DYNAMIC:QUOTE -->
 <!-- QUOTE_START -->
-Keep shipping.
+Fetching quote...
 <!-- QUOTE_END -->
 
 <!-- DYNAMIC:WEATHER -->
 <!-- WEATHER_START -->
-Weather unavailable
+Fetching weather...
 <!-- WEATHER_END -->
 
 ---
