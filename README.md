@@ -71,8 +71,8 @@
 
 | Project | Description | Stack |
 |----------|--------------|--------|
-| [**Mini-LMS**](https://github.com/Asad101001/Mini-LMS) | Lightweight Learning Management System prototype built for OOP practice. | Python, OOP, File Handling |
-| [**Data Science Fundamentals**](https://github.com/Asad101001/Data-Science-Fundamentals) | Exploratory notebooks demonstrating data wrangling, visualization, and preprocessing. | Python, Pandas, Matplotlib, Jupyter |
+| [**Mini-LMS**](https://github.com/Asad101001/Mini-LMS) | Lightweight Learning Management System prototype built for OOP practice. | Python, OOP |
+| [**Data Science Fundamentals**](https://github.com/Asad101001/Data-Science_Fundamentals) | Exploratory notebooks demonstrating data wrangling, visualization, and preprocessing. | Python, Pandas, Matplotlib, Jupyter |
 
 ---
 
