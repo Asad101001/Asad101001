@@ -1,47 +1,47 @@
 name: Update README dynamic sections
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
-  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
 
-      - name: Setup Node (for snk)
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run script
+        run: python update_readme.py
+
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Install snk and generate contribution snake
+      - name: Install Snake generator
+        run: npm install -g snk
+
+      - name: Generate Snake Animation
+        run: snk Asad101001 --output dist/snake.svg
+
+      - name: Push Snake Animation to GitHub
         run: |
-          npm install -g snk
-          chmod +x scripts/generate_snake.sh
-          ./scripts/generate_snake.sh
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.13'
-
-      - name: Install Python dependencies
-        run: python -m pip install --upgrade pip && pip install -r requirements.txt
-
-      - name: Run README updater
-        env:
-          OPENWEATHER_KEY: ${{ secrets.OPENWEATHER_KEY }}
-        run: python scripts/update_readme.py
-
-      - name: Commit & push changes
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/* || true
-          git diff --cached --quiet || (git commit -m "chore: auto-update README & assets" && git push)
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add dist/snake.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push

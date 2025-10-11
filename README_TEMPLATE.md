@@ -98,12 +98,12 @@
 
 <!-- DYNAMIC:QUOTE -->
 <!-- QUOTE_START -->
-Keep shipping.
+Fetching quote...
 <!-- QUOTE_END -->
 
 <!-- DYNAMIC:WEATHER -->
 <!-- WEATHER_START -->
-Weather unavailable
+Fetching weather...
 <!-- WEATHER_END -->
 
 ---
