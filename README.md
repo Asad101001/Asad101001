@@ -78,10 +78,15 @@
 ## 📊 GitHub Overview  
 
 <p align="center">
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=Asad101001&color=00FFB3)
+  
   ![Followers](https://img.shields.io/github/followers/Asad101001?label=Followers&style=flat-square&logo=github&color=00FFB3)
+  
   ![Stars](https://img.shields.io/github/stars/Asad101001?style=flat-square&logo=github&color=00FFB3)
+  
   ![Commit Activity](https://img.shields.io/github/commit-activity/m/Asad101001/Asad101001?style=flat-square&color=00FFB3)
+  
 </p>
 
 <!-- SNAKE_IMAGE -->
