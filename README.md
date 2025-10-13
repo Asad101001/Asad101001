@@ -96,6 +96,7 @@
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Asad101001&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&title_color=00FF7F&text_color=C9FCE9" width="80%"/>
 
+
 </div>
 
 ---
@@ -103,5 +104,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=500&lines=Always+Learning.;Always+Improving.;Building+One+Insight+At+A+Time." alt="Typing Animation" />
+
+![snake gif](https://github.com/Asad101001/Asad101001/blob/output/github-snake-dark.svg)
 
 </div>
