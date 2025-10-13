@@ -76,37 +76,32 @@
 
 ---
 
-## 📊 GitHub Overview  
+## ⚡ GitHub Overview  
 
 <div align="center">
 
-  ![Followers](https://img.shields.io/github/followers/Asad101001?label=Followers&style=flat-square&logo=github&color=00FFB3)
-  ![Commit Activity](https://img.shields.io/github/commit-activity/m/Asad101001/Asad101001?style=flat-square&color=00FFB3)
+  <img src="https://img.shields.io/github/followers/Asad101001?label=Followers&style=for-the-badge&logo=github&color=00FF7F&logoColor=white"/> 
+  <img src="https://img.shields.io/github/commit-activity/m/Asad101001/Asad101001?style=for-the-badge&color=00FF7F"/>
+
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Asad101001&theme=transparent&background=000000&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideNums=00FF7F&currStreakNum=00FF7F&sideLabels=C9FCE9&dates=7CFCB5" height="150"/>
+
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Asad101001&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF7F&text_color=C9FCE9&icon_color=00FF7F" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&layout=compact&hide_border=true&bg_color=000000&title_color=00FF7F&text_color=C9FCE9&icon_color=00FF7F" height="150"/>
+
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad101001&bg_color=000000&color=00FF7F&line=00FF7F&point=C9FCE9&area=true&hide_border=true" width="95%"/>
+  
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Asad101001&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&title_color=00FF7F&text_color=C9FCE9" width="80%"/>
 
 </div>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Asad101001&theme=shadow_green&hide_border=false" height="150"/>  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asad101001&theme=github_dark" height="150"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&theme=radical&layout=compact&hide_border=false" height="150" width="70%"/>  
-  <img src="https://github-profile-trophy.vercel.app/?username=Asad101001&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1" height="120" width="80%"/>  
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad101001&theme=react-dark&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF&hide_border=true" width="95%"/>
-</p>
 
 ---
-
-<div align="center"> 
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31nzox4rnz5dywmealmdmufewe3u&unique={true|1|on|yes})
-
-</div>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=500&lines=Always+Learning.;Always+Improving.;Building+One+Insight+At+A+Time." alt="Typing Animation" />
-
-
 
 </div>
