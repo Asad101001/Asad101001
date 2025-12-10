@@ -1,101 +1,114 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=350&lines=Hey+there%2C+I'm+Asad+👋" alt="Asad Typing Animation" />
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Muhammad+Asad+Khan;CS+%40+UBIT+'29;Building+%2B+Breaking+%2B+Learning" alt="Typing SVG" />
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZjNmwxbjdzN2t3NW5yZTBicGV6NWtwNXVucWx5NDVqcHhzb2NnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="280"/>
-
----
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZjNmwxbjdzN2t3NW5yZTBicGV6NWtwNXVucWx5NDVqcHhzb2NnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300"/>
 
 </div>
 
-## 💫 About Me  
+---
 
-🎓 Pursuing an undergraduate degree in **Computer Science** at the *University of Karachi (UBIT)* — expected 2029.  
-🧠 Trained in **Data Science fundamentals** — skilled in analytics, visualization, and Python-based workflows.  
-💻 Currently focusing on **Python, OOP, and problem-solving** to strengthen core logic.  
-🧩 Passionate about **clean, modular code** and conceptual clarity.  
-📚 Practicing **project-based learning** to apply concepts practically.  
-🚀 Constantly exploring smarter and structured ways to **build and evolve**.
+## 🎯 Currently
+
+CS student building fundamentals. Python for logic and data, exploring cloud infrastructure, getting comfortable with Linux environments. Less talk, more build.
+
+**Focus:** Python & OOP • Data Analysis • AWS & Networking • Linux Systems
 
 ---
 
-## 🌐 Connect With Me  
+## 🔗 Connect
 
 <p align="center">
-  <a href="https://github.com/Asad101001"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-asad-khan-56b360375/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:muhammadasadk42@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.com/users/1390327957062418654"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
-  <a href="https://medium.com/@muhammadasadk42"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
-  <a href="https://www.instagram.com/muhammadasad.k_/#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/31nzox4rnz5dywmealmdmufewe3u"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/></a>
+<a href="https://github.com/Asad101001">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammad-asad-khan-56b360375/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:muhammadasadk42@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://discord.com/users/1390327957062418654">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://medium.com/@muhammadasadk42">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<a href="https://www.instagram.com/muhammadasad.k_/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://open.spotify.com/user/31nzox4rnz5dywmealmdmufewe3u">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</a>
 </p>
 
 ---
 
-## ⚙️ Tools & Technologies  
+## 💻 Tech Stack
 
 <div align="center">
 
-**Programming & Markup**  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-**Data Science & Analysis**  
-<p>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-</p>
-
-**Version Control & IDEs**  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,linux,aws,git,github,vscode,pycharm,idea,eclipse,numpy,pandas,matplotlib,sklearn,tensorflow,jupyter" alt="Tech Stack" />
 
 </div>
 
 ---
 
-## 🧱 Projects  
+## 📦 Projects
 
-| Project | Description | Stack |
-|----------|--------------|--------|
-| [**Mini-LMS**](https://github.com/Asad101001/Mini-LMS) | Lightweight Learning Management System prototype built for OOP practice. | Python, OOP |
-| [**Data Science Fundamentals**](https://github.com/Asad101001/Data-Science_Fundamentals) | Exploratory notebooks demonstrating data wrangling, visualization, and preprocessing. | Python, Pandas, Matplotlib, Jupyter |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Mini-LMS
+Learning management system prototype focusing on OOP design patterns and architecture.
+
+**Tech:** Python • OOP • File I/O
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asad101001/Mini-LMS)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="20"/> Data Science Fundamentals
+Collection of notebooks covering data wrangling, EDA, visualization, and statistical analysis.
+
+**Tech:** Python • Pandas • Matplotlib • Seaborn
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asad101001/Data-Science_Fundamentals)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ GitHub Overview  
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://img.shields.io/github/followers/Asad101001?label=Followers&style=for-the-badge&logo=github&color=00FF7F&logoColor=white"/> 
-  <img src="https://img.shields.io/github/commit-activity/m/Asad101001/Asad101001?style=for-the-badge&color=00FF7F"/>
+<a href="https://github.com/Asad101001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asad101001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=BB86FC&text_color=c9d1d9&ring_color=6C63FF"/>
+</a>
+<a href="https://github.com/Asad101001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9"/>
+</a>
 
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Asad101001&theme=transparent&background=000000&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideNums=00FF7F&currStreakNum=00FF7F&sideLabels=C9FCE9&dates=7CFCB5" height="150"/>
+</div>
 
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Asad101001&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF7F&text_color=C9FCE9&icon_color=00FF7F" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&layout=compact&hide_border=true&bg_color=000000&title_color=00FF7F&text_color=C9FCE9&icon_color=00FF7F" height="150"/>
+<div align="center">
 
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad101001&bg_color=000000&color=00FF7F&line=00FF7F&point=C9FCE9&area=true&hide_border=true" width="95%"/>
-  
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Asad101001&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&title_color=00FF7F&text_color=C9FCE9" width="80%"/>
+<a href="https://github.com/Asad101001">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad101001&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=BB86FC&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e"/>
+</a>
 
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Asad101001">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad101001&custom_title=Contribution%20Graph&bg_color=0d1117&color=6C63FF&line=BB86FC&point=c9d1d9&area_color=6C63FF&area=true&hide_border=true&title_color=6C63FF"/>
+</a>
 
 </div>
 
@@ -103,7 +116,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=500&lines=Always+Learning.;Always+Improving.;Building+One+Insight+At+A+Time." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+one+project+at+a+time;Always+learning%2C+always+iterating" alt="Footer" />
+
+<br>
 
 ![snake gif](https://github.com/Asad101001/Asad101001/blob/output/github-snake-dark.svg)
 
