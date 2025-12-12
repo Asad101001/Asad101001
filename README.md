@@ -10,19 +10,27 @@
 
 </div>
 
+## 🎯 About
+
+- Building CS fundamentals through Python, OOP, and data-driven projects
+- Exploring cloud infrastructure (AWS) and Linux system administration
+- Interested in exploring intermediate networking concepts
+- Comfortable navigating between data analysis and software architecture
+- Currently diving deeper into algorithmic thinking and system design
+
 ---
 
 <div align="center">
 
 ## 🌐 Connect
 
-<a href="https://github.com/Asad101001"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/muhammad-asad-khan-56b360375/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:muhammadasadk42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://discord.com/users/1390327957062418654"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="https://medium.com/@muhammadasadk42"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-<a href="https://www.instagram.com/muhammadasad.k_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://open.spotify.com/user/31nzox4rnz5dywmealmdmufewe3u"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+<a href="https://www.linkedin.com/in/muhammad-asad-khan-56b360375/"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Asad101001"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:muhammadasadk42@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://discord.com/users/1390327957062418654"><img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://medium.com/@muhammadasadk42"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://www.instagram.com/muhammadasad.k_/"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://open.spotify.com/user/31nzox4rnz5dywmealmdmufewe3u"><img src="https://img.shields.io/badge/-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
 
 </div>
 
@@ -32,17 +40,20 @@
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,linux,aws,git,github&perline=8" alt="Core Stack" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,linux,aws,git,github" alt="Core Stack" />
+<br>
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,jupyter&perline=8" alt="Tools" />
+
 
 **Data Science & ML**
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23444876.svg?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -95,8 +106,8 @@ Collection of notebooks covering data wrangling, EDA, visualization, and statist
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Asad101001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=BB86FC&text_color=c9d1d9)](https://github.com/Asad101001)
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9)](https://github.com/Asad101001)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Asad101001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=BB86FC&text_color=c9d1d9)](https://github.com/Asad101001)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9)](https://github.com/Asad101001)
 
 <br>
 
@@ -104,7 +115,7 @@ Collection of notebooks covering data wrangling, EDA, visualization, and statist
 
 <br>
 
-[![Activity Graph](https://github-contribution-stats.vercel.app/api/?username=Asad101001&theme=tokyonight)](https://github.com/Asad101001)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asad101001&bg_color=0d1117&color=6C63FF&line=BB86FC&point=c9d1d9&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Asad101001)
 
 <br>
 
@@ -120,6 +131,6 @@ Collection of notebooks covering data wrangling, EDA, visualization, and statist
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,20,23&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,20,23&height=100&section=footer&reverseOrder=true" width="100%"/>
 
 </div>
