@@ -106,12 +106,12 @@ Collection of notebooks covering data wrangling, EDA, visualization, and statist
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Asad101001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=BB86FC&text_color=c9d1d9)](https://github.com/Asad101001)
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9)](https://github.com/Asad101001)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asad101001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=BB86FC&text_color=c9d1d9)](https://github.com/Asad101001)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9)](https://github.com/Asad101001)
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Asad101001&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=BB86FC&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C63FF&dates=8b949e)](https://github.com/Asad101001)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Asad101001&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=BB86FC&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C63FF&dates=8b949e)](https://github.com/Asad101001)
 
 <br>
 
