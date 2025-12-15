@@ -106,8 +106,9 @@ Collection of notebooks covering data wrangling, EDA, visualization, and statist
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asad101001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=BB86FC&text_color=c9d1d9)](https://github.com/Asad101001)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9)](https://github.com/Asad101001)
+[![GitHub Stats](https://github-readme-stats-asad101001.vercel.app/api?username=Asad101001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=BB86FC&text_color=c9d1d9)](https://github.com/Asad101001)
+
+[![Top Languages](https://github-readme-stats-asad101001.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9)](https://github.com/Asad101001)
 
 <br>
 
