@@ -117,6 +117,13 @@ Collection of notebooks covering data wrangling, EDA, visualization, and statist
 <br>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 December 2025 - To: 15 December 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asad101001&bg_color=0d1117&color=6C63FF&line=BB86FC&point=c9d1d9&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Asad101001)
