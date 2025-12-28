@@ -6,7 +6,7 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=500&color=BB86FC,6C63FF,9D4EDD,C77DFF&center=true&vCenter=true&repeat=true&width=600&lines=Muhammad+Asad+Khan" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Computer+Science+%40+UBIT+'29;Python+%7C+Data+%7C+Cloud;Building+%2B+Breaking+%2B+Learning" alt="Headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Computer+Science+%40+UBIT+'28;Python+%7C+Data+%7C+Cloud;Building+%2B+Breaking+%2B+Learning" alt="Headline" />
 
 </div>
 
@@ -120,7 +120,7 @@ Collection of notebooks covering data wrangling, EDA, visualization, and statist
 
 ```txt
 From: 20 December 2025 - To: 27 December 2025
-
+                                         
 Python       37 mins         █████████░░░░░░░░░░░░░░░░   35.78 %
 HTML         23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
 Bash         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
@@ -145,7 +145,3 @@ JavaScript   4 mins          █▒░░░░░░░░░░░░░░░
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Building+one+commit+at+a+time;Learning+through+breaking+things" alt="Footer" />
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,20,23&height=100&section=footer&reverseOrder=true" width="100%"/>
-
-</div>
