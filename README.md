@@ -119,7 +119,7 @@ Collection of notebooks covering data wrangling, EDA, visualization, and statist
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
 HTML         2 hrs 59 mins   █████████████▓░░░░░░░░░░░   54.71 %
 JavaScript   1 hr 20 mins    ██████░░░░░░░░░░░░░░░░░░░   24.42 %
