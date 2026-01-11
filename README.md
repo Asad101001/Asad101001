@@ -119,13 +119,13 @@ Collection of notebooks covering data wrangling, EDA, visualization, and statist
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2026 - To: 09 January 2026
+From: 03 January 2026 - To: 10 January 2026
 
-C++          3 hrs 28 mins   ███████████░░░░░░░░░░░░░░   43.85 %
-HTML         1 hr 45 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
-JavaScript   1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Markdown     57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-SQL          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+C++          3 hrs 45 mins   █████████████░░░░░░░░░░░░   52.21 %
+HTML         1 hr 25 mins    █████░░░░░░░░░░░░░░░░░░░░   19.72 %
+Markdown     56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+JavaScript   35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+SQL          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
