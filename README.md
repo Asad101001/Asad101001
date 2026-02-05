@@ -119,9 +119,11 @@ Collection of notebooks covering data wrangling, EDA, visualization, and statist
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
-C++   1 hr 34 mins    █████████████████████████   100.00 %
+C++        1 hr 34 mins    ██████████████████████▒░░   89.71 %
+Python     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
