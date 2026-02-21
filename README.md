@@ -126,13 +126,13 @@ Automated serverless backup solution using Python scripts with scheduled executi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-C++          2 hrs 25 mins         ████████████████████░░░░░   80.35 %
-Python       20 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Bash         7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Git Config   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Markdown     3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+C++          2 hrs 25 mins         █████████████▓░░░░░░░░░░░   54.69 %
+HTML         26 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+JavaScript   23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+CSS          21 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Python       20 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
 ```
 
 <!--END_SECTION:waka-->
