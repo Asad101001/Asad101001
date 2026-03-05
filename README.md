@@ -125,7 +125,8 @@ Automated serverless backup using Python and scheduled cron jobs on S3.
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&langs_count=6)](https://github.com/Asad101001)
+
+[![Top Languages](https://github-readme-stats-asad101001.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9)](https://github.com/Asad101001)
 
 </div>
 
