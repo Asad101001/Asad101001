@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1f1c,100:0a0a0a&height=130&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1f1c,100:0a0a0a&height=120&section=header" width="100%"/>
+
+<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="160"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&lines=Muhammad+Asad+Khan" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=CS+%40+UBIT+%2728+%C2%B7+Karachi%2C+PK;Cloud+%C2%B7+AI+%C2%B7+Dev;Bugs+feared%3F+0.+Bugs+fixed%3F+debatable.;Peak+productivity%3A+11pm-3am;Build+broken+things.+Understand+why.+Fix+them." alt="Subtitle" />
 
 <br/>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZjNmwxbjdzN2t3NW5yZTBicGV6NWtwNXVucWx5NDVqcHhzb2NnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="170"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=620&lines=Muhammad+Asad+Khan" alt="Name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=620&lines=CS+%40+UBIT+%2728+%C2%B7+Karachi%2C+Pakistan;Cloud+%C2%B7+AI+%C2%B7+Dev;Bugs+feared%3F+0.+Bugs+fixed%3F+debatable.;Peak+productivity%3A+11pm-3am;Build+broken+things.+Understand+why.+Fix+them." alt="Subtitle" />
-
-<br/><br/>
 
 <a href="https://muhammadasad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=2DD4BF"/></a>
 &nbsp;
@@ -22,7 +18,7 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0d1f1c&height=52&text=%E2%97%88+ABOUT&fontSize=15&fontColor=2DD4BF&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%"/>
 
@@ -30,11 +26,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=400&color=2DD4BF&multiline=true&repeat=false&width=580&height=170&lines=asad%402006+~+%24+whoami;++Muhammad+Asad+Khan+%C2%B7+CS+%40+UBIT+%2728;asad%402006+~+%24+cat+about.txt;++Exploring+every+corner+of+CS+before+picking+a+lane.;++Build+broken+things%2C+understand+why%2C+unbreak+them.;asad%402006+~+%24+echo+%24STATUS;++Open+to+collabs+%26+internships+%E2%96%AE" alt="Terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=400&color=2DD4BF&multiline=true&repeat=false&width=600&height=190&lines=asad%402006+~+%24+whoami;++Muhammad+Asad+Khan+%C2%B7+CS+%40+UBIT+%2728+%C2%B7+Karachi%2C+PK;asad%402006+~+%24+cat+about.txt;++Exploring+every+corner+of+CS+before+picking+a+lane.;++From+AWS+VPCs+to+RAG+pipelines+%E2%80%94+I+learn+by+building.;++Philosophy%3A+build+broken+things%2C+understand+why%2C+fix+them.;asad%402006+~+%24+echo+%24STATUS;++Open+to+collabs+%26+internships+%E2%96%AE" alt="Terminal" />
 
 </div>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0d1f1c&height=52&text=%E2%97%88+TECH+STACK&fontSize=15&fontColor=2DD4BF&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%"/>
 
@@ -42,83 +38,69 @@
 
 <div align="center">
 
-**` Languages `**
+<!-- Languages -->
+<table><tr><td align="center" colspan="9"><sub><b>Languages</b></sub></td></tr>
+<tr>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="38"/><br/><sub>Python</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="38"/><br/><sub>C++</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="38"/><br/><sub>C#</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="38"/><br/><sub>Java</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="38"/><br/><sub>JavaScript</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="38"/><br/><sub>HTML5</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="38"/><br/><sub>CSS3</sub></a></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" height="20"/><br/><sub>R</sub></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/ASM-555?style=flat-square&logo=assemblyscript&logoColor=white" height="20"/><br/><sub>Assembly</sub></td>
+</tr></table>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,html,css&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Assembly-555555?style=flat-square&logo=assemblyscript&logoColor=white"/>
-
-<br/><br/>
-
-**` Cloud & Infrastructure `**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=aws,linux,docker&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-<br/><br/>
-
-**` AI · Data · Backend `**
+<!-- Cloud -->
+<table><tr><td align="center" colspan="8"><sub><b>Cloud & Infrastructure</b></sub></td></tr>
+<tr>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="38"/><br/><sub>AWS</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="38"/><br/><sub>Linux</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="38"/><br/><sub>Docker</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="38"/><br/><sub>Nginx</sub></a></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" height="20"/><br/><sub>EC2</sub></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" height="20"/><br/><sub>S3</sub></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" height="20"/><br/><sub>RDS</sub></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="20"/><br/><sub>IAM</sub></td>
+</tr></table>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,fastapi,nodejs&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangChain-2DD4BF?style=flat-square&logo=chainlink&logoColor=000000"/>
-&nbsp;
-<img src="https://img.shields.io/badge/RAG-0d1f1c?style=flat-square&logo=buffer&logoColor=2DD4BF"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FAISS-0d1f1c?style=flat-square&logo=meta&logoColor=2DD4BF"/>
-&nbsp;
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Seaborn-2DD4BF?style=flat-square&logo=python&logoColor=000000"/>
-
-<br/><br/>
-
-**` Databases & Tools `**
+<!-- AI / Data -->
+<table><tr><td align="center" colspan="9"><sub><b>AI / Data</b></sub></td></tr>
+<tr>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="38"/><br/><sub>PyTorch</sub></a></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/LangChain-2DD4BF?style=flat-square&logo=chainlink&logoColor=000" height="20"/><br/><sub>LangChain</sub></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/FAISS-0d1f1c?style=flat-square&logo=meta&logoColor=2DD4BF" height="20"/><br/><sub>FAISS</sub></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="20"/><br/><sub>Groq</sub></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" height="20"/><br/><sub>Gemini</sub></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="20"/><br/><sub>pandas</sub></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="20"/><br/><sub>NumPy</sub></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="20"/><br/><sub>Scikit-Learn</sub></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/Seaborn-2DD4BF?style=flat-square&logo=python&logoColor=000" height="20"/><br/><sub>Seaborn</sub></td>
+</tr></table>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=github,vscode,jupyter&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Scrum%2FAgile-2DD4BF?style=flat-square&logo=scrumalliance&logoColor=000000"/>
+<!-- Backend & Tools -->
+<table><tr><td align="center" colspan="8"><sub><b>Backend & Tools</b></sub></td></tr>
+<tr>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="38"/><br/><sub>FastAPI</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="38"/><br/><sub>Node.js</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="38"/><br/><sub>MySQL</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="38"/><br/><sub>Git</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="38"/><br/><sub>GitHub</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="38"/><br/><sub>VS Code</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="38"/><br/><sub>Jupyter</sub></a></td>
+<td align="center" width="75"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" height="20"/><br/><sub>Bash</sub></td>
+</tr></table>
 
 </div>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0d1f1c&height=52&text=%E2%97%88+PROJECTS&fontSize=15&fontColor=2DD4BF&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%"/>
 
@@ -129,37 +111,40 @@
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Asad101001/LegalEaseAI">
-<img src="https://muhammadasad-portfolio.vercel.app/public/images/legalease.png" width="100%" height="180px" style="object-fit:cover;border-radius:6px"/>
+<img src="https://muhammadasad-portfolio.vercel.app/images/legalease.png" width="100%" height="170" style="object-fit:cover"/>
 </a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,js&theme=dark" height="28"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/LangChain-2DD4BF?style=flat-square&logo=chainlink&logoColor=000" height="20"/>
+<img src="https://img.shields.io/badge/FAISS-0d1f1c?style=flat-square&logo=meta&logoColor=2DD4BF" height="20"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="20"/>
 
-&nbsp;&nbsp;**[LegalEaseAI](https://github.com/Asad101001/LegalEaseAI)**
+**[LegalEaseAI](https://github.com/Asad101001/LegalEaseAI)**
 
-Contract risk analyzer — clause-level Red/Yellow/Green rating, Urdu explanations, RAG chatbot, PDF report.
+Upload any contract → clause-level Red/Yellow/Green risk rating, plain Urdu explanation, RAG chatbot, PDF report. Built in 72 hours for HEC GenAI Hackathon.
 
-`LangChain` `FAISS` `RAG` `FastAPI` `Python`
-
-[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/LegalEaseAI)&nbsp;[![Live](https://img.shields.io/badge/Live_Demo-2DD4BF?style=flat-square&logo=vercel&logoColor=000000)](https://legal-ease-ai-iota.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/LegalEaseAI)&nbsp;[![Live](https://img.shields.io/badge/Live_Demo-2DD4BF?style=flat-square&logo=vercel&logoColor=000)](https://legal-ease-ai-iota.vercel.app/)
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Asad101001/pollpulse">
-<img src="https://muhammadasad-portfolio.vercel.app/public/images/pollpulse.png" width="100%" height="180px" style="object-fit:cover;border-radius:6px"/>
+<img src="https://muhammadasad-portfolio.vercel.app/images/pollpulse.png" width="100%" height="170" style="object-fit:cover"/>
 </a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=aws,nodejs,mysql&theme=dark" height="28"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" height="20"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" height="20"/>
 
-&nbsp;&nbsp;**[PollPulse](https://github.com/Asad101001/pollpulse)**
+**[PollPulse](https://github.com/Asad101001/pollpulse)**
 
-Real-time polling on AWS. Custom VPC, EC2 public + RDS private subnet. Live vote analytics.
-
-`Node.js` `Express` `AWS EC2/RDS` `MySQL` `Chart.js`
+Real-time polling on AWS. Custom VPC, EC2 public + RDS private subnet, bcrypt auth, live vote analytics, gamification. Cloud Computing Capstone.
 
 [![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/pollpulse)
 
@@ -172,47 +157,49 @@ Real-time polling on AWS. Custom VPC, EC2 public + RDS private subnet. Live vote
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Asad101001/Data-Science_Fundamentals">
-<img src="https://muhammadasad-portfolio.vercel.app/public/images/data-science.jpg" width="100%" height="180px" style="object-fit:cover;border-radius:6px"/>
+<img src="https://muhammadasad-portfolio.vercel.app/images/data-science.jpg" width="100%" height="170" style="object-fit:cover"/>
 </a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,r,jupyter&theme=dark" height="28"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="20"/>
 
-&nbsp;&nbsp;**[Data Science Fundamentals](https://github.com/Asad101001/Data-Science_Fundamentals)**
+**[Data Science Fundamentals](https://github.com/Asad101001/Data-Science_Fundamentals)**
 
-NED DS cert notebooks — wrangling, EDA, visualization, ML on real-world datasets.
-
-`pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-Learn`
+NED DS cert notebooks — pandas wrangling, EDA, Seaborn visualization, regression, classification, Random Forest on real-world datasets.
 
 [![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/Data-Science_Fundamentals)
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/Asad101001/aws-static-website">
-<img src="https://muhammadasad-portfolio.vercel.app/public/images/aws.png" width="100%" height="180px" style="object-fit:cover;border-radius:6px"/>
+<a href="https://github.com/Asad101001/aws-website-backup-system">
+<img src="https://muhammadasad-portfolio.vercel.app/images/aws.png" width="100%" height="170" style="object-fit:cover"/>
 </a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=aws,linux,html&theme=dark" height="28"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" height="20"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Cron-555?style=flat-square&logo=linux&logoColor=white" height="20"/>
 
-&nbsp;&nbsp;**[AWS Static Website](https://github.com/Asad101001/aws-static-website)**
+**[AWS Website Backup System](https://github.com/Asad101001/aws-website-backup-system)**
 
-EC2 + Ubuntu + Nginx. Full provisioning from scratch — no click-ops shortcuts.
+EC2 + Ubuntu + Nginx with automated daily backups to S3 via Bash + cron. 30-day lifecycle policy, one-command restore script, IAM least-privilege.
 
-`AWS EC2` `Nginx` `Ubuntu` `SSH` `HTML/CSS/JS`
-
-[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/aws-static-website)
+[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/aws-website-backup-system)
 
 </td>
 </tr>
 </table>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0d1f1c&height=52&text=%E2%97%88GITHUB+STATS&fontSize=15&fontColor=2DD4BF&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0d1f1c&height=52&text=%E2%97%88+GITHUB+STATS&fontSize=15&fontColor=2DD4BF&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%"/>
 
 
 <br/>
@@ -223,12 +210,11 @@ EC2 + Ubuntu + Nginx. Full provisioning from scratch — no click-ops shortcuts.
 
 <br/>
 
-[![Top Languages](https://github-readme-stats-asad101001.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DD4BF&text_color=888888)](https://github.com/Asad101001)
+<img src="https://github-readme-stats-asad101001.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DD4BF&text_color=888888" alt="Top Languages"/>
 
 <br/>
 
 <!--START_SECTION:waka-->
-
 ```txt
 From: 04 March 2026 - To: 11 March 2026
 
@@ -237,7 +223,6 @@ C++          1 hr 34 mins          ████████▒░░░░░░
 JavaScript   31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
 CSS          16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
-
 <!--END_SECTION:waka-->
 
 <br/>
@@ -250,17 +235,13 @@ CSS          16 mins               █▒░░░░░░░░░░░░░
 
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f1c,100:0a0a0a&height=110&section=footer" width="100%"/>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3500&pause=1200&color=444444&center=true&vCenter=true&width=620&lines=Sometimes+it+works...+sometimes+it+doesn%27t.;Documentation+shall+be+my+demise.;Debugging+is+just+advanced+googling.;It%27s+not+a+bug%2C+it%27s+a+feature.;Ctrl+Z+is+my+best+friend." alt="Footer quotes" />
-
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=99999&color=2DD4BF&center=true&vCenter=true&repeat=false&width=620&lines=%3C%2FAsad%3E+%E2%80%94+Built+with+curiosity+%26+caffeine+%C2%B7+Karachi%2C+Pakistan" alt="Footer tag" />
 
