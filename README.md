@@ -230,13 +230,12 @@ EC2 + Ubuntu + Nginx. Full provisioning from scratch — no click-ops shortcuts.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2026 - To: 10 March 2026
+From: 04 March 2026 - To: 11 March 2026
 
-HTML         2 hrs 1 min           ██████████▓░░░░░░░░░░░░░░   43.27 %
-C++          1 hr 34 mins          ████████▒░░░░░░░░░░░░░░░░   33.90 %
-JavaScript   27 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-C#           20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-CSS          15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+HTML         2 hrs 26 mins         ████████████▓░░░░░░░░░░░░   50.68 %
+C++          1 hr 34 mins          ████████▒░░░░░░░░░░░░░░░░   32.76 %
+JavaScript   31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+CSS          16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
