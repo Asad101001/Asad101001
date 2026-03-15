@@ -1,18 +1,17 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  METRICS_TEST.md — generated SVG sandbox · Asad101001       ║ -->
-<!-- ║  do not edit manually · auto-updated by metrics workflow     ║ -->
+<!-- ║  README_METRICS.md — metrics sandbox · Asad101001           ║ -->
+<!-- ║  auto-updated by .github/workflows/metrics.yml              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- header wave -->
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1f1c,100:0a0a0a&height=100&section=header)](https://github.com/Asad101001)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1f1c,100:0a0a0a&height=100&section=header" width="100%"/>
 
 ```
 asad@metrics:~$ cat status.txt
   ✦  metrics sandbox — live data, zero fluff
   ✦  auto-regenerates daily @ 02:00 PKT
-  ✦  trigger manually via Actions → ⚡ Metrics → Run workflow
+  ✦  trigger manually → Actions → ⚡ Metrics → Run workflow
 ```
 
 </div>
@@ -21,24 +20,18 @@ asad@metrics:~$ cat status.txt
 
 ## ◈ Base — Activity · Community · Repos
 
-> header, commit activity, community stats, repository overview
-
 <div align="center">
-
-![Base metrics](./metrics/base.svg)
-
+<img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/metrics/base.svg" alt="Base metrics" />
 </div>
 
 ---
 
 ## ◈ Languages In-Depth
 
-> most-used + recently-used · lines · bytes · percentage breakdown
+> most-used + recently-used · lines · bytes · percentage
 
 <div align="center">
-
-![Languages](./metrics/languages.svg)
-
+<img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/metrics/languages.svg" alt="Languages" />
 </div>
 
 ---
@@ -48,57 +41,27 @@ asad@metrics:~$ cat status.txt
 > full-year 3-D contribution heatmap
 
 <div align="center">
-
-![Isometric calendar](./metrics/isocalendar.svg)
-
+<img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/metrics/isocalendar.svg" alt="Isometric calendar" />
 </div>
 
 ---
 
 ## ◈ Achievements
 
-> compact badge grid · threshold B and above
+> compact badge grid · threshold C and above
 
 <div align="center">
-
-![Achievements](./metrics/achievements.svg)
-
+<img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/metrics/achievements.svg" alt="Achievements" />
 </div>
 
 ---
 
 ## ◈ Recent Activity
 
-> last 14 days · all event types · 7 entries
+> last 30 days · push, PR, issue, release events
 
 <div align="center">
-
-![Activity](./metrics/activity.svg)
-
-</div>
-
----
-
-## ◈ Starred Topics
-
-> icon grid of starred GitHub topics
-
-<div align="center">
-
-![Topics](./metrics/topics.svg)
-
-</div>
-
----
-
-## ◈ Notable Contributions
-
-> repos you've made meaningful impact on
-
-<div align="center">
-
-![Notable](./metrics/notable.svg)
-
+<img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/metrics/activity.svg" alt="Activity" />
 </div>
 
 ---
@@ -108,21 +71,19 @@ asad@metrics:~$ cat status.txt
 > cumulative additions / deletions across all repos
 
 <div align="center">
-
-![Lines](./metrics/lines.svg)
-
+<img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/metrics/lines.svg" alt="Lines" />
 </div>
 
 ---
 
 <div align="center">
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:0d1f1c,100:0a0a0a&height=90&section=footer)](https://github.com/Asad101001)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f1c,100:0a0a0a&height=90&section=footer" width="100%"/>
 
 ```
 asad@metrics:~$ echo $STATUS
-  ⬡  all metrics generated · workflow: .github/workflows/metrics.yml
-  ⬡  token: METRICS_TOKEN (repo scope + read:user)
+  ⬡  token scopes required: repo · read:user · read:org · gist
+  ⬡  workflow: .github/workflows/metrics.yml
 ```
 
 </div>
