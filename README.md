@@ -110,8 +110,53 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
+<a href="https://github.com/Asad101001/mogscope">
+<img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope.png" width="100%" height="170" style="object-fit:cover"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" height="20"/>
+<img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/face--api.js-0d1f1c?style=flat-square&logo=tensorflow&logoColor=2DD4BF" height="20"/>
+
+**[MogScope](https://github.com/Asad101001/mogscope)**
+
+Satirical facial analytics platform. 68-point SSD MobileNet landmark detection → PSL/RMS scoring, mog battle system, 3D skull visualization, and Groq-generated AI roasts. The ML is real. The conclusions are not.
+
+[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/mogscope)&nbsp;[![Live](https://img.shields.io/badge/Live_Demo-2DD4BF?style=flat-square&logo=vercel&logoColor=000)](https://mogscope.vercel.app/)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/Asad101001/devpulse">
+<img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse.png" width="100%" height="170" style="object-fit:cover"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" height="20"/>
+<img src="https://img.shields.io/badge/Express_5-000?style=flat-square&logo=express&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="20"/>
+
+**[DevPulse](https://github.com/Asad101001/devpulse)**
+
+Developer telemetry dashboard. GitHub OAuth → Groq Llama 3.1 analyzes commit narratives for sentiment, burnout risk, and cognitive load. Brutalist industrial UI with radar charts, wrapped poster export, and an AI-generated executive directive.
+
+[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/devpulse)&nbsp;[![Live](https://img.shields.io/badge/Live_Demo-2DD4BF?style=flat-square&logo=render&logoColor=white)](https://devpulse-app.onrender.com)
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
 <a href="https://github.com/Asad101001/LegalEaseAI">
-<img src="https://muhammadasad-portfolio.vercel.app/images/legalease.png" width="100%" height="170" style="object-fit:cover"/>
+<img src="https://muhammadasad-portfolio.vercel.app/images/projects/legalease.png" width="100%" height="170" style="object-fit:cover"/>
 </a>
 
 <br/><br/>
@@ -132,7 +177,7 @@ Upload any contract → clause-level Red/Yellow/Green risk rating, plain Urdu ex
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Asad101001/pollpulse">
-<img src="https://muhammadasad-portfolio.vercel.app/images/pollpulse.png" width="100%" height="170" style="object-fit:cover"/>
+<img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse.png" width="100%" height="170" style="object-fit:cover"/>
 </a>
 
 <br/><br/>
@@ -156,28 +201,8 @@ Real-time polling on AWS. Custom VPC, EC2 public + RDS private subnet, bcrypt au
 <tr>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/Asad101001/Data-Science_Fundamentals">
-<img src="https://muhammadasad-portfolio.vercel.app/images/data-science.jpg" width="100%" height="170" style="object-fit:cover"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="20"/>
-
-**[Data Science Fundamentals](https://github.com/Asad101001/Data-Science_Fundamentals)**
-
-NED DS cert notebooks — pandas wrangling, EDA, Seaborn visualization, regression, classification, Random Forest on real-world datasets.
-
-[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/Data-Science_Fundamentals)
-
-</td>
-<td width="50%" valign="top" align="center">
-
 <a href="https://github.com/Asad101001/aws-website-backup-system">
-<img src="https://muhammadasad-portfolio.vercel.app/images/aws.png" width="100%" height="170" style="object-fit:cover"/>
+<img src="https://muhammadasad-portfolio.vercel.app/images/projects/aws.png" width="100%" height="170" style="object-fit:cover"/>
 </a>
 
 <br/><br/>
@@ -199,6 +224,7 @@ EC2 + Ubuntu + Nginx with automated daily backups to S3 via Bash + cron. 30-day 
 
 <br/>
 
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:0d1f1c&height=52&text=%E2%97%88+GITHUB+STATS&fontSize=15&fontColor=2DD4BF&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%"/>
 
 
@@ -215,17 +241,14 @@ EC2 + Ubuntu + Nginx with automated daily backups to S3 via Bash + cron. 30-day 
 <br/>
 
 <!--START_SECTION:waka-->
-
 ```txt
-From: 19 March 2026 - To: 26 March 2026
+From: 04 March 2026 - To: 11 March 2026
 
-C++          49 mins               ██████████████░░░░░░░░░░░   55.50 %
-Python       23 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
-JavaScript   7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-Bash         4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Git Config   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+HTML         2 hrs 26 mins         ████████████▓░░░░░░░░░░░░   50.68 %
+C++          1 hr 34 mins          ████████▒░░░░░░░░░░░░░░░░   32.76 %
+JavaScript   31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+CSS          16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
-
 <!--END_SECTION:waka-->
 
 <br/>
