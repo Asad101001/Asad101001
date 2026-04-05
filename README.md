@@ -243,13 +243,13 @@ EC2 + Ubuntu + Nginx with automated daily backups to S3 via Bash + cron. 30-day 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2026 - To: 03 April 2026
+From: 28 March 2026 - To: 04 April 2026
 
-Objective-C   14 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
-HTML          12 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
-C++           10 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
-Markdown      9 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-Bash          6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Markdown      25 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.57 %
+C++           22 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+Objective-C   15 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+HTML          12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+Batchfile     8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
 ```
 
 <!--END_SECTION:waka-->
