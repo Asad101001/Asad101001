@@ -196,30 +196,6 @@ Real-time polling on AWS. Custom VPC, EC2 public + RDS private subnet, bcrypt au
 </td>
 </tr>
 
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top" align="center">
-
-<a href="https://github.com/Asad101001/aws-website-backup-system">
-<img src="https://muhammadasad-portfolio.vercel.app/images/projects/aws.png" width="100%" height="170" style="object-fit:cover"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" height="20"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Cron-555?style=flat-square&logo=linux&logoColor=white" height="20"/>
-
-**[AWS Website Backup System](https://github.com/Asad101001/aws-website-backup-system)**
-
-EC2 + Ubuntu + Nginx with automated daily backups to S3 via Bash + cron. 30-day lifecycle policy, one-command restore script, IAM least-privilege.
-
-[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/aws-website-backup-system)
-
-</td>
-</tr>
 </table>
 
 <br/>
