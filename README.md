@@ -219,13 +219,13 @@ Real-time polling on AWS. Custom VPC, EC2 public + RDS private subnet, bcrypt au
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2026 - To: 06 June 2026
+From: 31 May 2026 - To: 07 June 2026
 
-JavaScript   1 hr 13 mins          ███████████▓░░░░░░░░░░░░░   46.83 %
-C++          37 mins               ██████░░░░░░░░░░░░░░░░░░░   23.84 %
-Bash         12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-JSON         11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Markdown     11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+C++           1 hr 33 mins          ███████████▓░░░░░░░░░░░░░   46.07 %
+JavaScript    1 hr 1 min            ███████▓░░░░░░░░░░░░░░░░░   30.43 %
+Markdown      11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+C             10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+JSON          8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
