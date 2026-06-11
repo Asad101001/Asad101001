@@ -111,7 +111,7 @@
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Asad101001/mogscope">
-<img src="https://media.giphy.com/media/Q8OQxR8P1x7XqZ807O/giphy.gif" width="100%" height="170" style="object-fit:cover; border-radius:10px;"/>
+<img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.png" width="100%" height="170" style="object-fit:cover; border-radius:12px;"/>
 </a>
 
 <br/><br/>
@@ -131,7 +131,7 @@ Satirical facial analytics platform. 68-point SSD MobileNet landmark detection �
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Asad101001/devpulse">
-<img src="https://media.giphy.com/media/xT9IgzoVuwqr8D1X1S/giphy.gif" width="100%" height="170" style="object-fit:cover; border-radius:10px;"/>
+<img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse/devpulse.png" width="100%" height="170" style="object-fit:cover; border-radius:12px;"/>
 </a>
 
 <br/><br/>
@@ -156,7 +156,7 @@ Developer telemetry dashboard. GitHub OAuth → Groq Llama 3.1 analyzes commit n
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Asad101001/LegalEaseAI">
-<img src="https://media.giphy.com/media/3oKIPoZniJ2hq8IItG/giphy.gif" width="100%" height="170" style="object-fit:cover; border-radius:10px;"/>
+<img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease-demo.gif" width="100%" height="170" style="object-fit:cover; border-radius:12px;"/>
 </a>
 
 <br/><br/>
@@ -177,7 +177,7 @@ Upload any contract → clause-level Red/Yellow/Green risk rating, plain Urdu ex
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Asad101001/pollpulse">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="170" style="object-fit:cover; border-radius:10px;"/>
+<img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.png" width="100%" height="170" style="object-fit:cover; border-radius:12px;"/>
 </a>
 
 <br/><br/>
