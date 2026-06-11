@@ -176,7 +176,7 @@
 
 <tr>
 <td colspan="2" align="center">
-  <table width="48%" style="border-collapse: separate; border-spacing: 0;">
+  <table width="50%" style="border-collapse: separate; border-spacing: 0;">
     <tr>
       <td valign="top" align="left">
         <a href="https://github.com/Asad101001/devpulse">
