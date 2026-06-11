@@ -15,6 +15,10 @@
 &nbsp;
 <a href="mailto:muhammadasadk42@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Asad101001&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Visitor Count" />
+
 </div>
 
 <br/>
@@ -172,20 +176,24 @@
 <tr><td colspan="2"><br/><br/></td></tr>
 
 <tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/Asad101001/pollpulse">
-    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
-  </a>
-  <br/><br/>
-  <b><a href="https://github.com/Asad101001/pollpulse">PollPulse</a></b>
-  <br/>
-  <sub>Real-time polling on AWS. Custom VPC, EC2 public + RDS private subnet, bcrypt auth, live vote analytics, gamification. Cloud Computing Capstone.</sub>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white" height="18"/>
-  <br/><br/>
-  <a href="https://github.com/Asad101001/pollpulse"><img src="https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white"/></a>
-</td>
-<td width="50%" valign="top">
+<td colspan="2" align="center">
+  <table width="48%" style="border-collapse: separate; border-spacing: 0;">
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/Asad101001/pollpulse">
+          <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
+        </a>
+        <br/><br/>
+        <b><a href="https://github.com/Asad101001/pollpulse">PollPulse</a></b>
+        <br/>
+        <sub>Real-time polling on AWS. Custom VPC, EC2 public + RDS private subnet, bcrypt auth, live vote analytics, gamification. Cloud Computing Capstone.</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white" height="18"/>
+        <br/><br/>
+        <a href="https://github.com/Asad101001/pollpulse"><img src="https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white"/></a>
+      </td>
+    </tr>
+  </table>
 </td>
 </tr>
 </table>
@@ -225,6 +233,10 @@ Bash          19 mins               █▓░░░░░░░░░░░░�
 <br/>
 
 ![3D Contribution Graph](https://raw.githubusercontent.com/Asad101001/Asad101001/main/profile-3d-contrib/profile-night-view.svg)
+
+<br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" alt="Jokes Card" />
 
 <br/>
 
