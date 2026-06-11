@@ -106,96 +106,89 @@
 
 <br/>
 
-<table align="center" width="94%">
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 20px 0;">
 <tr>
-<td width="50%" valign="top" align="center">
-
-<a href="https://github.com/Asad101001/mogscope">
-<img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.png" width="100%" height="170" style="object-fit:cover; border-radius:12px;"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" height="20"/>
-<img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/face--api.js-0d1f1c?style=flat-square&logo=tensorflow&logoColor=2DD4BF" height="20"/>
-
-**[MogScope](https://github.com/Asad101001/mogscope)**
-
-Satirical facial analytics platform. 68-point SSD MobileNet landmark detection → PSL/RMS scoring, mog battle system, 3D skull visualization, and Groq-generated AI roasts. The ML is real. The conclusions are not.
-
-[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/mogscope)&nbsp;[![Live](https://img.shields.io/badge/Live_Demo-2DD4BF?style=flat-square&logo=vercel&logoColor=000)](https://mogscope.vercel.app/)
-
+<td width="50%" valign="top">
+  <a href="https://github.com/Asad101001/mogscope">
+    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
+  </a>
+  <br/><br/>
+  <b><a href="https://github.com/Asad101001/mogscope">MogScope</a></b>
+  <br/>
+  <sub>Satirical facial analytics platform. 68-point SSD MobileNet landmark detection → PSL/RMS scoring, mog battle system, 3D skull visualization, and Groq-generated AI roasts.</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" height="18"/> <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="18"/>
+  <br/><br/>
+  <a href="https://github.com/Asad101001/mogscope"><img src="https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://mogscope.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2DD4BF?style=flat-square&logo=vercel&logoColor=000"/></a>
 </td>
-<td width="50%" valign="top" align="center">
-
-<a href="https://github.com/Asad101001/devpulse">
-<img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse/devpulse.png" width="100%" height="170" style="object-fit:cover; border-radius:12px;"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" height="20"/>
-<img src="https://img.shields.io/badge/Express_5-000?style=flat-square&logo=express&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="20"/>
-
-**[DevPulse](https://github.com/Asad101001/devpulse)**
-
-Developer telemetry dashboard. GitHub OAuth → Groq Llama 3.1 analyzes commit narratives for sentiment, burnout risk, and cognitive load. Brutalist industrial UI with radar charts, wrapped poster export, and an AI-generated executive directive.
-
-[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/devpulse)&nbsp;[![Live](https://img.shields.io/badge/Live_Demo-2DD4BF?style=flat-square&logo=render&logoColor=white)](https://devpulse-app.onrender.com)
-
+<td width="50%" valign="top">
+  <a href="https://github.com/Asad101001/devpulse">
+    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse/devpulse.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
+  </a>
+  <br/><br/>
+  <b><a href="https://github.com/Asad101001/devpulse">DevPulse</a></b>
+  <br/>
+  <sub>Developer telemetry dashboard. GitHub OAuth → Groq Llama 3.1 analyzes commit narratives for sentiment, burnout risk, and cognitive load. Brutalist industrial UI with radar charts, and AI directives.</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" height="18"/> <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="18"/>
+  <br/><br/>
+  <a href="https://github.com/Asad101001/devpulse"><img src="https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://devpulse-app.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-2DD4BF?style=flat-square&logo=render&logoColor=white"/></a>
 </td>
 </tr>
 
-<tr><td colspan="2"><br/></td></tr>
+<tr><td colspan="2"><br/><br/></td></tr>
 
 <tr>
-<td width="50%" valign="top" align="center">
-
-<a href="https://github.com/Asad101001/LegalEaseAI">
-<img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease-demo.gif" width="100%" height="170" style="object-fit:cover; border-radius:12px;"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/LangChain-2DD4BF?style=flat-square&logo=chainlink&logoColor=000" height="20"/>
-<img src="https://img.shields.io/badge/FAISS-0d1f1c?style=flat-square&logo=meta&logoColor=2DD4BF" height="20"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="20"/>
-
-**[LegalEaseAI](https://github.com/Asad101001/LegalEaseAI)**
-
-Upload any contract → clause-level Red/Yellow/Green risk rating, plain Urdu explanation, RAG chatbot, PDF report. Built in 72 hours for HEC GenAI Hackathon.
-
-[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/LegalEaseAI)&nbsp;[![Live](https://img.shields.io/badge/Live_Demo-2DD4BF?style=flat-square&logo=vercel&logoColor=000)](https://legal-ease-ai-iota.vercel.app/)
-
+<td width="50%" valign="top">
+  <a href="https://github.com/Asad101001/LegalEaseAI">
+    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
+  </a>
+  <br/><br/>
+  <b><a href="https://github.com/Asad101001/LegalEaseAI">LegalEaseAI</a></b>
+  <br/>
+  <sub>Upload any contract → clause-level Red/Yellow/Green risk rating, plain Urdu explanation, RAG chatbot, PDF report. Built in 72 hours for HEC GenAI Hackathon.</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/LangChain-2DD4BF?style=flat-square&logo=chainlink&logoColor=000" height="18"/>
+  <br/><br/>
+  <a href="https://github.com/Asad101001/LegalEaseAI"><img src="https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://legal-ease-ai-iota.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2DD4BF?style=flat-square&logo=vercel&logoColor=000"/></a>
 </td>
-<td width="50%" valign="top" align="center">
-
-<a href="https://github.com/Asad101001/pollpulse">
-<img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.png" width="100%" height="170" style="object-fit:cover; border-radius:12px;"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" height="20"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" height="20"/>
-
-**[PollPulse](https://github.com/Asad101001/pollpulse)**
-
-Real-time polling on AWS. Custom VPC, EC2 public + RDS private subnet, bcrypt auth, live vote analytics, gamification. Cloud Computing Capstone.
-
-[![Code](https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Asad101001/pollpulse)
-
+<td width="50%" valign="top">
+  <a href="https://github.com/Asad101001/AntigravityHackathon">
+    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/asaaniyat/asaaniyat.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
+  </a>
+  <br/><br/>
+  <b><a href="https://github.com/Asad101001/AntigravityHackathon">Asaaniyat</a></b>
+  <br/>
+  <sub>Service provider booking and management platform built for the Antigravity Hackathon. Features real-time notifications, geographic provider discovery, and intelligent AI decision matching.</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" height="18"/>
+  <br/><br/>
+  <a href="https://github.com/Asad101001/AntigravityHackathon"><img src="https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 
+<tr><td colspan="2"><br/><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Asad101001/pollpulse">
+    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
+  </a>
+  <br/><br/>
+  <b><a href="https://github.com/Asad101001/pollpulse">PollPulse</a></b>
+  <br/>
+  <sub>Real-time polling on AWS. Custom VPC, EC2 public + RDS private subnet, bcrypt auth, live vote analytics, gamification. Cloud Computing Capstone.</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" height="18"/>
+  <br/><br/>
+  <a href="https://github.com/Asad101001/pollpulse"><img src="https://img.shields.io/badge/Code-1a1a1a?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 <br/>
