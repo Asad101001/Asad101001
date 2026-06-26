@@ -44,30 +44,30 @@
 <!-- Languages -->
 <table><tr><td align="center" colspan="9"><sub><b>Languages</b></sub></td></tr>
 <tr>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="38"/><br/><sub>Python</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="38"/><br/><sub>C++</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="38"/><br/><sub>C#</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="38"/><br/><sub>Java</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="38"/><br/><sub>JavaScript</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="38"/><br/><sub>HTML5</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="38"/><br/><sub>CSS3</sub></a></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/R-000000?style=flat-square&logo=r&logoColor=white" height="20"/><br/><sub>R</sub></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/ASM-000000?style=flat-square&logo=assemblyscript&logoColor=white" height="20"/><br/><sub>Assembly</sub></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=python" width="44" height="44"/><br/><sub>Python</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=cpp" width="44" height="44"/><br/><sub>C++</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=cs" width="44" height="44"/><br/><sub>C#</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=java" width="44" height="44"/><br/><sub>Java</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=js" width="44" height="44"/><br/><sub>JavaScript</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=html" width="44" height="44"/><br/><sub>HTML5</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=css" width="44" height="44"/><br/><sub>CSS3</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=r" width="44" height="44"/><br/><sub>R</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=assembly" width="44" height="44"/><br/><sub>Assembly</sub></a></td>
 </tr></table>
 
 <br/>
 
-<!-- Cloud -->
+<!-- Cloud & Infrastructure -->
 <table><tr><td align="center" colspan="8"><sub><b>Cloud & Infrastructure</b></sub></td></tr>
 <tr>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="38"/><br/><sub>AWS</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="38"/><br/><sub>Linux</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="38"/><br/><sub>Docker</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="38"/><br/><sub>Nginx</sub></a></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/EC2-000000?style=flat-square&logo=amazonec2&logoColor=white" height="20"/><br/><sub>EC2</sub></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/S3-000000?style=flat-square&logo=amazons3&logoColor=white" height="20"/><br/><sub>S3</sub></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/RDS-000000?style=flat-square&logo=amazonrds&logoColor=white" height="20"/><br/><sub>RDS</sub></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/IAM-000000?style=flat-square&logo=amazonaws&logoColor=white" height="20"/><br/><sub>IAM</sub></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=aws" width="44" height="44"/><br/><sub>AWS</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=linux" width="44" height="44"/><br/><sub>Linux</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=docker" width="44" height="44"/><br/><sub>Docker</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=nginx" width="44" height="44"/><br/><sub>Nginx</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=ec2" width="44" height="44"/><br/><sub>EC2</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=s3" width="44" height="44"/><br/><sub>S3</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=rds" width="44" height="44"/><br/><sub>RDS</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=iam" width="44" height="44"/><br/><sub>IAM</sub></a></td>
 </tr></table>
 
 <br/>
@@ -75,15 +75,15 @@
 <!-- AI / Data -->
 <table><tr><td align="center" colspan="9"><sub><b>AI / Data</b></sub></td></tr>
 <tr>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="38"/><br/><sub>PyTorch</sub></a></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white" height="20"/><br/><sub>LangChain</sub></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/FAISS-0d1f1c?style=flat-square&logo=meta&logoColor=white" height="20"/><br/><sub>FAISS</sub></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white" height="20"/><br/><sub>Groq</sub></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=google&logoColor=white" height="20"/><br/><sub>Gemini</sub></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/pandas-000000?style=flat-square&logo=pandas&logoColor=white" height="20"/><br/><sub>pandas</sub></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white" height="20"/><br/><sub>NumPy</sub></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/sklearn-000000?style=flat-square&logo=scikitlearn&logoColor=white" height="20"/><br/><sub>Scikit-Learn</sub></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/Seaborn-000000?style=flat-square&logo=python&logoColor=white" height="20"/><br/><sub>Seaborn</sub></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=pytorch" width="44" height="44"/><br/><sub>PyTorch</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=langchain" width="44" height="44"/><br/><sub>LangChain</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=faiss" width="44" height="44"/><br/><sub>FAISS</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=groq" width="44" height="44"/><br/><sub>Groq</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=gemini" width="44" height="44"/><br/><sub>Gemini</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=pandas" width="44" height="44"/><br/><sub>pandas</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=numpy" width="44" height="44"/><br/><sub>NumPy</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=sklearn" width="44" height="44"/><br/><sub>Scikit-Learn</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=seaborn" width="44" height="44"/><br/><sub>Seaborn</sub></a></td>
 </tr></table>
 
 <br/>
@@ -91,14 +91,14 @@
 <!-- Backend & Tools -->
 <table><tr><td align="center" colspan="8"><sub><b>Backend & Tools</b></sub></td></tr>
 <tr>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="38"/><br/><sub>FastAPI</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="38"/><br/><sub>Node.js</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="38"/><br/><sub>MySQL</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="38"/><br/><sub>Git</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="38"/><br/><sub>GitHub</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="38"/><br/><sub>VS Code</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="38"/><br/><sub>Jupyter</sub></a></td>
-<td align="center" width="75"><img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=white" height="20"/><br/><sub>Bash</sub></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=fastapi" width="44" height="44"/><br/><sub>FastAPI</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=node" width="44" height="44"/><br/><sub>Node.js</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=mysql" width="44" height="44"/><br/><sub>MySQL</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=git" width="44" height="44"/><br/><sub>Git</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=github" width="44" height="44"/><br/><sub>GitHub</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=vscode" width="44" height="44"/><br/><sub>VS Code</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=jupyter" width="44" height="44"/><br/><sub>Jupyter</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=bash" width="44" height="44"/><br/><sub>Bash</sub></a></td>
 </tr></table>
 
 </div>
@@ -113,7 +113,7 @@
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/Asad101001/AntigravityHackathon">
-    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/asaaniyat/asaaniyat.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
+    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/asaaniyat/asaaniyat.webp" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
   </a>
   <br/><br/>
   <b><a href="https://github.com/Asad101001/AntigravityHackathon">Asaaniyat</a></b>
@@ -126,7 +126,7 @@
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/Asad101001/mogscope">
-    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
+    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.webp" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
   </a>
   <br/><br/>
   <b><a href="https://github.com/Asad101001/mogscope">MogScope</a></b>
@@ -145,7 +145,7 @@
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/Asad101001/LegalEaseAI">
-    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
+    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.webp" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
   </a>
   <br/><br/>
   <b><a href="https://github.com/Asad101001/LegalEaseAI">LegalEaseAI</a></b>
@@ -159,7 +159,7 @@
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/Asad101001/pollpulse">
-    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
+    <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.webp" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
   </a>
   <br/><br/>
   <b><a href="https://github.com/Asad101001/pollpulse">PollPulse</a></b>
@@ -180,7 +180,7 @@
     <tr>
       <td valign="top" align="left">
         <a href="https://github.com/Asad101001/devpulse">
-          <img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse/devpulse.png" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
+          <img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse/devpulse.webp" width="100%" height="200" style="object-fit:cover; border-radius:10px;"/>
         </a>
         <br/><br/>
         <b><a href="https://github.com/Asad101001/devpulse">DevPulse</a></b>
@@ -203,19 +203,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:111111&height=52&text=%E2%97%88+GITHUB+STATS&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%"/>
 
-
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Asad101001&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=AAAAAA&currStreakLabel=FFFFFF&dates=666666&stroke=222222" alt="GitHub Streak"/>
+<!-- GitHub Stats Grid -->
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Asad101001&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=AAAAAA&currStreakLabel=FFFFFF&dates=666666&stroke=222222" alt="GitHub Streak" height="170"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-asad101001.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" alt="Top Languages" height="170"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-stats-asad101001.vercel.app/api/top-langs/?username=Asad101001&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" alt="Top Languages"/>
+<!-- Spotify Live Widget -->
+<a href="https://muhammadasad-portfolio.vercel.app/">
+  <img src="https://muhammadasad-portfolio.vercel.app/api/spotify-svg" alt="Spotify Currently Playing" width="450" />
+</a>
 
-<br/>
+<br/><br/>
 
+<!-- WakaTime Code Hours -->
 <!--START_SECTION:waka-->
 
 ```txt
@@ -232,15 +245,18 @@ Dart         19 mins               ██░░░░░░░░░░░░░
 
 <br/>
 
-![3D Contribution Graph](https://raw.githubusercontent.com/Asad101001/Asad101001/main/profile-3d-contrib/profile-night-view.svg)
+<!-- 3D Contribution Graph -->
+<sub><b>📊 3D Contribution Graph</b></sub><br/><br/>
+<img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="75%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" alt="Jokes Card" />
 
-<br/>
+<br/><br/>
 
-![snake gif](https://raw.githubusercontent.com/Asad101001/Asad101001/output/github-snake-dark.svg)
+<sub><b>🐍 Contribution Snake</b></sub><br/><br/>
+<img src="https://raw.githubusercontent.com/Asad101001/Asad101001/output/github-snake-dark.svg" alt="snake gif" />
 
 </div>
 
