@@ -104,13 +104,11 @@
 <br/>
 
 <!-- Frontend & GUI -->
-<table><tr><td align="center" colspan="5"><sub><b>Frontend & GUI</b></sub></td></tr>
+<table><tr><td align="center" colspan="3"><sub><b>Frontend & GUI</b></sub></td></tr>
 <tr>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=react" width="44" height="44"/><br/><sub>React / RN</sub></a></td>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=tailwindcss" width="44" height="44"/><br/><sub>Tailwind</sub></a></td>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=threejs" width="44" height="44"/><br/><sub>Three.js</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=raylib" width="44" height="44"/><br/><sub>Raylib</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=dotnet" width="44" height="44"/><br/><sub>.NET / WPF</sub></a></td>
 </tr></table>
 
 </div>
@@ -201,7 +199,31 @@
   </tr>
 </table>
 
-<!-- Project 4: DevPulse -->
+<!-- Project 4: PollPulse -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+  <tr>
+    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
+      <a href="https://github.com/Asad101001/pollpulse">
+        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      </a>
+    </td>
+    <td valign="top" style="padding: 16px 20px;">
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/pollpulse" style="color: #ffffff; text-decoration: none;">PollPulse</a></h3>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Real-time polling platform built on AWS. Features a custom VPC with EC2 and RDS MySQL isolation. Delivers live data visualization via Chart.js and secure Node.js authentication.</p>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonaws&logoColor=FF9900" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18"/>
+      </div>
+      <div>
+        <a href="https://github.com/Asad101001/pollpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Project 5: DevPulse -->
 <table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
@@ -222,52 +244,6 @@
         <a href="https://github.com/Asad101001/devpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
         &nbsp;
         <a href="https://devpulse-app.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- Project 5: NetFinder -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
-  <tr>
-    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <a href="https://github.com/Asad101001/NetFinder">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/netfinder/netfinder.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
-      </a>
-    </td>
-    <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/NetFinder" style="color: #ffffff; text-decoration: none;">NetFinder</a></h3>
-      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">A cyber-brutalist social network graph visualizer and DSA explorer built from scratch in raw C++ (eschewing STL containers for custom lists/heaps). Renders dynamic BFS pathfinding and Heap Sort rankings with retro CRT shaders.</p>
-      <div style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00599C" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Raylib-0a0a0a?style=flat-square&logo=raylib&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/MinGW-0a0a0a?style=flat-square&logo=windows&logoColor=0078D6" height="18"/>
-      </div>
-      <div>
-        <a href="https://github.com/Asad101001/NetFinder"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- Project 6: Karachi Railway System -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
-  <tr>
-    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <a href="https://github.com/Asad101001/KarachiRailwaySystem">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/karachirailwaysystem/karachirailway.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
-      </a>
-    </td>
-    <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/KarachiRailwaySystem" style="color: #ffffff; text-decoration: none;">Karachi Railway System</a></h3>
-      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">An M/M/1 queueing theory simulation of Karachi Railway Station. Employs the MVVM design pattern in .NET 8 WPF, modeling passenger flows and payment authorization with real-time XAML UI animation and diagnostics dashboards.</p>
-      <div style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=csharp&logoColor=239120" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/.NET_8.0-0a0a0a?style=flat-square&logo=dotnet&logoColor=512BD4" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/WPF-0a0a0a?style=flat-square&logo=windows&logoColor=0078D6" height="18"/>
-      </div>
-      <div>
-        <a href="https://github.com/Asad101001/KarachiRailwaySystem"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
