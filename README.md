@@ -101,6 +101,18 @@
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=bash" width="44" height="44"/><br/><sub>Bash</sub></a></td>
 </tr></table>
 
+<br/>
+
+<!-- Frontend & GUI -->
+<table><tr><td align="center" colspan="5"><sub><b>Frontend & GUI</b></sub></td></tr>
+<tr>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=react" width="44" height="44"/><br/><sub>React / RN</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=tailwindcss" width="44" height="44"/><br/><sub>Tailwind</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=threejs" width="44" height="44"/><br/><sub>Three.js</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=raylib" width="44" height="44"/><br/><sub>Raylib</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=dotnet" width="44" height="44"/><br/><sub>.NET / WPF</sub></a></td>
+</tr></table>
+
 </div>
 
 <br/>
@@ -114,141 +126,148 @@
 <td align="center">
 
 <!-- Project 1: Asaaniyat -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1a1a1a; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 24px; text-align: left;">
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
-    <td style="padding: 0;">
+    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
       <a href="https://github.com/Asad101001/AntigravityHackathon">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/asaaniyat/asaaniyat.webp" width="100%" style="display: block; border-radius: 12px 12px 0 0; border-bottom: 1px solid #1a1a1a;"/>
+        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/asaaniyat/asaaniyat.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px;">
-      <h3 style="margin: 0 0 8px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/AntigravityHackathon" style="color: #ffffff; text-decoration: none;">Asaaniyat</a></h3>
-      <p style="margin: 0 0 16px 0; color: #aaaaaa; font-size: 0.9rem; line-height: 1.5; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">An agentic AI mobile orchestrator organizing Pakistan's informal economy. Features a custom 8-agent pipeline automating intent parsing from Roman Urdu voice inputs, provider discovery, and dynamic pricing.</p>
-      <div style="margin-bottom: 16px;">
+    <td valign="top" style="padding: 16px 20px;">
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/AntigravityHackathon" style="color: #ffffff; text-decoration: none;">Asaaniyat</a></h3>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Agentic AI mobile orchestrator organizing Pakistan's informal economy. Built with React Native and Express backend, featuring an 8-agent LangChain workflow that parses voice commands in Roman Urdu (via Whisper), coordinates real-time SMS services, and manages session state via MongoDB.</p>
+      <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=chainlink&logoColor=white" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248" height="18"/>
       </div>
       <div>
-        <a href="https://github.com/Asad101001/AntigravityHackathon"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="24"/></a>
+        <a href="https://github.com/Asad101001/AntigravityHackathon"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
 </table>
 
 <!-- Project 2: MogScope -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1a1a1a; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 24px; text-align: left;">
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
-    <td style="padding: 0;">
+    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
       <a href="https://github.com/Asad101001/mogscope">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.webp" width="100%" style="display: block; border-radius: 12px 12px 0 0; border-bottom: 1px solid #1a1a1a;"/>
+        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px;">
-      <h3 style="margin: 0 0 8px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/mogscope" style="color: #ffffff; text-decoration: none;">MogScope</a></h3>
-      <p style="margin: 0 0 16px 0; color: #aaaaaa; font-size: 0.9rem; line-height: 1.5; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Satirical facial analytics platform. 68-point SSD MobileNet landmark detection → PSL/RMS scoring, mog battle system, 3D skull visualization, and Groq-generated AI roasts.</p>
-      <div style="margin-bottom: 16px;">
+    <td valign="top" style="padding: 16px 20px;">
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/mogscope" style="color: #ffffff; text-decoration: none;">MogScope</a></h3>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Satirical facial analytics platform. Uses TensorFlow.js SSD MobileNet v1 face landmark detection (68-points) for custom looksmaxing scoring, a real-time multiplayer "Mog Battle" system, Three.js 3D skull mapping, and Llama 3.3 generated roasts.</p>
+      <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/Three.js-0a0a0a?style=flat-square&logo=threedotjs&logoColor=white" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/Groq-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=FF6F00" height="18"/>
       </div>
       <div>
-        <a href="https://github.com/Asad101001/mogscope"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="24"/></a>
+        <a href="https://github.com/Asad101001/mogscope"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
         &nbsp;
-        <a href="https://mogscope.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="24"/></a>
+        <a href="https://mogscope.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
 </table>
 
 <!-- Project 3: LegalEaseAI -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1a1a1a; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 24px; text-align: left;">
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
-    <td style="padding: 0;">
+    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
       <a href="https://github.com/Asad101001/LegalEaseAI">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.webp" width="100%" style="display: block; border-radius: 12px 12px 0 0; border-bottom: 1px solid #1a1a1a;"/>
+        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px;">
-      <h3 style="margin: 0 0 8px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/LegalEaseAI" style="color: #ffffff; text-decoration: none;">LegalEaseAI</a></h3>
-      <p style="margin: 0 0 16px 0; color: #aaaaaa; font-size: 0.9rem; line-height: 1.5; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Upload contracts for rapid AI risk-rating. Provides plain Urdu explanations, a RAG-powered document chatbot, and downloadable PDF reports. Powered by FastAPI and LangChain.</p>
-      <div style="margin-bottom: 16px;">
+    <td valign="top" style="padding: 16px 20px;">
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/LegalEaseAI" style="color: #ffffff; text-decoration: none;">LegalEaseAI</a></h3>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">A legal contract risk-rating and document intelligence platform. Leverages LangChain to chunk and vectorize PDF agreements into a FAISS vector store, delivering semantic search, clause risk analysis, Urdu explanations, and PDF reports.</p>
+      <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=05998B" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=chainlink&logoColor=white" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/FAISS-0a0a0a?style=flat-square&logo=meta&logoColor=044F88" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/Groq-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/>
       </div>
       <div>
-        <a href="https://github.com/Asad101001/LegalEaseAI"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="24"/></a>
+        <a href="https://github.com/Asad101001/LegalEaseAI"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
         &nbsp;
-        <a href="https://legal-ease-ai-iota.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="24"/></a>
+        <a href="https://legal-ease-ai-iota.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
 </table>
 
-<!-- Project 4: PollPulse -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1a1a1a; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 24px; text-align: left;">
+<!-- Project 4: DevPulse -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
-    <td style="padding: 0;">
-      <a href="https://github.com/Asad101001/pollpulse">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.webp" width="100%" style="display: block; border-radius: 12px 12px 0 0; border-bottom: 1px solid #1a1a1a;"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px;">
-      <h3 style="margin: 0 0 8px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/pollpulse" style="color: #ffffff; text-decoration: none;">PollPulse</a></h3>
-      <p style="margin: 0 0 16px 0; color: #aaaaaa; font-size: 0.9rem; line-height: 1.5; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Real-time polling platform built on AWS. Features a custom VPC with EC2 and RDS MySQL isolation. Delivers live data visualization via Chart.js and secure Node.js authentication.</p>
-      <div style="margin-bottom: 16px;">
-        <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonaws&logoColor=FF9900" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Nginx-0a0a0a?style=flat-square&logo=nginx&logoColor=009639" height="18"/>
-      </div>
-      <div>
-        <a href="https://github.com/Asad101001/pollpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="24"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- Project 5: DevPulse -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1a1a1a; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 24px; text-align: left;">
-  <tr>
-    <td style="padding: 0;">
+    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
       <a href="https://github.com/Asad101001/devpulse">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse/devpulse.webp" width="100%" style="display: block; border-radius: 12px 12px 0 0; border-bottom: 1px solid #1a1a1a;"/>
+        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse/devpulse.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px;">
-      <h3 style="margin: 0 0 8px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/devpulse" style="color: #ffffff; text-decoration: none;">DevPulse</a></h3>
-      <p style="margin: 0 0 16px 0; color: #aaaaaa; font-size: 0.9rem; line-height: 1.5; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">A developer telemetry dashboard. Analyzes commit narratives to calculate cognitive load using Llama 3.3. Built with a technical aesthetic using React, Express, and MongoDB Atlas.</p>
-      <div style="margin-bottom: 16px;">
+    <td valign="top" style="padding: 16px 20px;">
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/devpulse" style="color: #ffffff; text-decoration: none;">DevPulse</a></h3>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Developer telemetry and cognitive load analyzer. Connects to GitHub Webhooks to process commit logs, utilizing Llama 3.3 sentiment analysis to evaluate developer burnout indicators and visualize telemetry via Chart.js dashboards.</p>
+      <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/GitHub_OAuth-0a0a0a?style=flat-square&logo=github&logoColor=white" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/Groq-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/>
       </div>
       <div>
-        <a href="https://github.com/Asad101001/devpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="24"/></a>
+        <a href="https://github.com/Asad101001/devpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
         &nbsp;
-        <a href="https://devpulse-app.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="24"/></a>
+        <a href="https://devpulse-app.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Project 5: NetFinder -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+  <tr>
+    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
+      <a href="https://github.com/Asad101001/NetFinder">
+        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/netfinder/netfinder.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      </a>
+    </td>
+    <td valign="top" style="padding: 16px 20px;">
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/NetFinder" style="color: #ffffff; text-decoration: none;">NetFinder</a></h3>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">A cyber-brutalist social network graph visualizer and DSA explorer built from scratch in raw C++ (eschewing STL containers for custom lists/heaps). Renders dynamic BFS pathfinding and Heap Sort rankings with retro CRT shaders.</p>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00599C" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Raylib-0a0a0a?style=flat-square&logo=raylib&logoColor=white" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/MinGW-0a0a0a?style=flat-square&logo=windows&logoColor=0078D6" height="18"/>
+      </div>
+      <div>
+        <a href="https://github.com/Asad101001/NetFinder"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Project 6: Karachi Railway System -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+  <tr>
+    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
+      <a href="https://github.com/Asad101001/KarachiRailwaySystem">
+        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/karachirailwaysystem/karachirailway.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      </a>
+    </td>
+    <td valign="top" style="padding: 16px 20px;">
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/KarachiRailwaySystem" style="color: #ffffff; text-decoration: none;">Karachi Railway System</a></h3>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">An M/M/1 queueing theory simulation of Karachi Railway Station. Employs the MVVM design pattern in .NET 8 WPF, modeling passenger flows and payment authorization with real-time XAML UI animation and diagnostics dashboards.</p>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=csharp&logoColor=239120" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/.NET_8.0-0a0a0a?style=flat-square&logo=dotnet&logoColor=512BD4" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/WPF-0a0a0a?style=flat-square&logo=windows&logoColor=0078D6" height="18"/>
+      </div>
+      <div>
+        <a href="https://github.com/Asad101001/KarachiRailwaySystem"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
