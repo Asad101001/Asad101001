@@ -326,15 +326,17 @@ Catch me building stuff, posting takes, or listening to music. Slide in anywhere
 
 <!-- WakaTime Code Hours -->
 <!--START_SECTION:waka-->
-```txt
-From: 18 June 2026 - To: 25 June 2026
 
-JSON         37 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
-JavaScript   33 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-CSV          30 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
-TypeScript   25 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-Dart         19 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+```txt
+From: 19 June 2026 - To: 26 June 2026
+
+JSON         37 mins               ████·····················   17.39 %
+JavaScript   33 mins               ████·····················   15.20 %
+CSV          30 mins               ███······················   13.88 %
+TypeScript   25 mins               ███······················   11.94 %
+Dart         19 mins               ██·······················   09.08 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br/><br/>
