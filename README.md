@@ -328,13 +328,13 @@ Catch me building stuff, posting takes, or listening to music. Slide in anywhere
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2026 - To: 29 June 2026
+From: 23 June 2026 - To: 30 June 2026
 
-Dart         19 mins               █████····················   19.25 %
-Python       16 mins               ████·····················   15.62 %
-Markdown     14 mins               ████·····················   14.34 %
-TypeScript   13 mins               ███······················   13.44 %
-Kotlin       13 mins               ███······················   12.95 %
+Dart         19 mins               █████····················   20.76 %
+Python       16 mins               ████·····················   16.84 %
+Markdown     15 mins               ████·····················   16.79 %
+Kotlin       13 mins               ███······················   13.96 %
+JSON         10 mins               ███······················   11.20 %
 ```
 
 <!--END_SECTION:waka-->
