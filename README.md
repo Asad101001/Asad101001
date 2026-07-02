@@ -42,15 +42,13 @@
 <div align="center">
 
 <!-- Languages -->
-<table><tr><td align="center" colspan="9"><sub><b>Languages</b></sub></td></tr>
+<table><tr><td align="center" colspan="7"><sub><b>Languages</b></sub></td></tr>
 <tr>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=python" width="44" height="44"/><br/><sub>Python</sub></a></td>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=cpp" width="44" height="44"/><br/><sub>C++</sub></a></td>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=cs" width="44" height="44"/><br/><sub>C#</sub></a></td>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=java" width="44" height="44"/><br/><sub>Java</sub></a></td>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=js" width="44" height="44"/><br/><sub>JavaScript</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=html" width="44" height="44"/><br/><sub>HTML5</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=css" width="44" height="44"/><br/><sub>CSS3</sub></a></td>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=r" width="44" height="44"/><br/><sub>R</sub></a></td>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=assembly" width="44" height="44"/><br/><sub>Assembly</sub></a></td>
 </tr></table>
@@ -104,11 +102,13 @@
 <br/>
 
 <!-- Frontend & GUI -->
-<table><tr><td align="center" colspan="3"><sub><b>Frontend & GUI</b></sub></td></tr>
+<table><tr><td align="center" colspan="5"><sub><b>Frontend & GUI</b></sub></td></tr>
 <tr>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=react" width="44" height="44"/><br/><sub>React / RN</sub></a></td>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=tailwindcss" width="44" height="44"/><br/><sub>Tailwind</sub></a></td>
 <td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=threejs" width="44" height="44"/><br/><sub>Three.js</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=html" width="44" height="44"/><br/><sub>HTML5</sub></a></td>
+<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=css" width="44" height="44"/><br/><sub>CSS3</sub></a></td>
 </tr></table>
 
 </div>
@@ -287,7 +287,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:111111&height=52&text=%E2%97%88+CONNECT+%26+FUN&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:111111&height=52&text=%E2%97%88+CONNECT+AND+FUN&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%"/>
 
 <br/>
 
@@ -297,10 +297,6 @@ Catch me building stuff, posting takes, or listening to music. Slide in anywhere
 
 <br/><br/>
 
-<a href="https://github.com/Asad101001"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/muhammadasadk/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-&nbsp;
 <a href="https://discord.com/users/1390327957062418654"><img src="https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
 &nbsp;
 <a href="https://www.instagram.com/muhammadasad.k_/"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
