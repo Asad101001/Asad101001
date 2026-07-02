@@ -119,20 +119,16 @@
 
 <br/>
 
-<table align="center" width="100%" style="max-width: 600px; border-collapse: collapse;">
-<tr>
-<td align="center">
+<div align="center">
 
 <!-- Project 1: Asaaniyat -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+<table width="600" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <a href="https://github.com/Asad101001/AntigravityHackathon">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/asaaniyat/asaaniyat.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
-      </a>
+      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/asaaniyat/asaaniyat.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/AntigravityHackathon" style="color: #ffffff; text-decoration: none;">Asaaniyat</a></h3>
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">Asaaniyat</h3>
       <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Agentic AI mobile orchestrator organizing Pakistan's informal economy. Built with React Native and Express backend, featuring an 8-agent LangChain workflow that parses voice commands in Roman Urdu (via Whisper), coordinates real-time SMS services, and manages session state via MongoDB.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
@@ -142,21 +138,23 @@
       </div>
       <div>
         <a href="https://github.com/Asad101001/AntigravityHackathon"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+        &nbsp;
+        <a href="https://asaaniyat-admin.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
 </table>
 
+<br/>
+
 <!-- Project 2: MogScope -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+<table width="600" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <a href="https://github.com/Asad101001/mogscope">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
-      </a>
+      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/mogscope" style="color: #ffffff; text-decoration: none;">MogScope</a></h3>
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">MogScope</h3>
       <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Satirical facial analytics platform. Uses TensorFlow.js SSD MobileNet v1 face landmark detection (68-points) for custom looksmaxing scoring, a real-time multiplayer "Mog Battle" system, Three.js 3D skull mapping, and Llama 3.3 generated roasts.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
@@ -173,16 +171,16 @@
   </tr>
 </table>
 
+<br/>
+
 <!-- Project 3: LegalEaseAI -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+<table width="600" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <a href="https://github.com/Asad101001/LegalEaseAI">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
-      </a>
+      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/LegalEaseAI" style="color: #ffffff; text-decoration: none;">LegalEaseAI</a></h3>
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">LegalEaseAI</h3>
       <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">A legal contract risk-rating and document intelligence platform. Leverages LangChain to chunk and vectorize PDF agreements into a FAISS vector store, delivering semantic search, clause risk analysis, Urdu explanations, and PDF reports.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB" height="18"/> &nbsp;
@@ -199,16 +197,16 @@
   </tr>
 </table>
 
+<br/>
+
 <!-- Project 4: PollPulse -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+<table width="600" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <a href="https://github.com/Asad101001/pollpulse">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
-      </a>
+      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/pollpulse" style="color: #ffffff; text-decoration: none;">PollPulse</a></h3>
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">PollPulse</h3>
       <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Real-time polling platform built on AWS. Features a custom VPC with EC2 and RDS MySQL isolation. Delivers live data visualization via Chart.js and secure Node.js authentication.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/> &nbsp;
@@ -218,21 +216,23 @@
       </div>
       <div>
         <a href="https://github.com/Asad101001/pollpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+        &nbsp;
+        <a href="https://muhammadasad-portfolio.vercel.app/demo.html?p=PollPulse&v=pollpulse/pollpulse-demo.mp4"><img src="https://img.shields.io/badge/Watch_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
 </table>
 
+<br/>
+
 <!-- Project 5: DevPulse -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+<table width="600" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <a href="https://github.com/Asad101001/devpulse">
-        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse/devpulse.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
-      </a>
+      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse/devpulse.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><a href="https://github.com/Asad101001/devpulse" style="color: #ffffff; text-decoration: none;">DevPulse</a></h3>
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">DevPulse</h3>
       <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Developer telemetry and cognitive load analyzer. Connects to GitHub Webhooks to process commit logs, utilizing Llama 3.3 sentiment analysis to evaluate developer burnout indicators and visualize telemetry via Chart.js dashboards.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
@@ -249,9 +249,7 @@
   </tr>
 </table>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
