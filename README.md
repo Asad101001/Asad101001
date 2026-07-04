@@ -322,7 +322,7 @@ Catch me building stuff, posting takes, or listening to music. Slide in anywhere
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2026 - To: 02 July 2026
+From: 26 June 2026 - To: 03 July 2026
 
 Markdown     15 mins               ██████···················   23.72 %
 C++          14 mins               █████····················   21.16 %
