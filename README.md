@@ -322,12 +322,12 @@ Catch me building stuff, posting takes, or listening to music. Slide in anywhere
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2026 - To: 15 July 2026
+From: 09 July 2026 - To: 16 July 2026
 
-C++          1 hr 54 mins          █████████████████········   69.64 %
-Markdown     22 mins               ███······················   13.91 %
-PowerShell   14 mins               ██·······················   08.88 %
-Other        6 mins                █························   04.22 %
+C++          2 hrs 1 min           ██████████████████·······   70.92 %
+Markdown     22 mins               ███······················   13.32 %
+PowerShell   14 mins               ██·······················   08.51 %
+Other        6 mins                █························   04.04 %
 ```
 
 <!--END_SECTION:waka-->
