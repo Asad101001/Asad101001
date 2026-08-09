@@ -2,10 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=120&section=header" width="100%"/>
 
+<h1 align="center">Muhammad Asad Khan</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&lines=Muhammad+Asad+Khan" alt="Name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=CS+%40+UBIT+%2728+%C2%B7+Karachi%2C+PK;Cloud+%C2%B7+AI+%C2%B7+Dev;Bugs+feared%3F+0.+Bugs+fixed%3F+debatable.;Peak+productivity%3A+11pm-3am;Build+broken+things.+Understand+why.+Fix+them." alt="Subtitle" />
+<p align="center">
+  <b>CS @ UBIT '28</b> &nbsp;·&nbsp; <b>Karachi, PK</b> &nbsp;·&nbsp; <b>Cloud &nbsp;·&nbsp; AI &nbsp;·&nbsp; Systems</b>
+</p>
 
 <br/>
 
@@ -14,10 +15,6 @@
 <a href="https://www.linkedin.com/in/muhammadasadk/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:muhammadasadk42@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Asad101001&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Visitor Count" />
 
 </div>
 
@@ -29,7 +26,22 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=400&color=FFFFFF&multiline=true&repeat=false&width=600&height=190&lines=asad%402006+~+%24+whoami;++Muhammad+Asad+Khan+%C2%B7+CS+%40+UBIT+%2728+%C2%B7+Karachi%2C+PK;asad%402006+~+%24+cat+about.txt;++Exploring+every+corner+of+CS+before+picking+a+lane.;++From+AWS+VPCs+to+RAG+pipelines+%E2%80%94+I+learn+by+building.;++Philosophy%3A+build+broken+things%2C+understand+why%2C+fix+them.;asad%402006+~+%24+echo+%24STATUS;++Open+to+collabs+%26+internships+%E2%96%AE" alt="Terminal" />
+<!-- ASCII Terminal Window Container (Starts directly with whoami) -->
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 10px; text-align: left;">
+  <tr>
+    <td style="padding: 10px 16px; background-color: #121212; border-bottom: 1px solid #1c1c1c; font-family: 'JetBrains Mono', monospace; font-size: 12px; color: #888888; text-align: left;">
+      <span style="color: #ff5f56; font-size: 13px;">●</span> 
+      <span style="color: #ffbd2e; font-size: 13px;">●</span> 
+      <span style="color: #27c93f; font-size: 13px;">●</span> 
+      &nbsp;&nbsp;<b>asad@ubithome: ~ (zsh)</b>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 18px 24px 14px 24px; background-color: #080808; text-align: left;">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=180&lines=asad%402006+~+%24+whoami;%E2%86%B3+Muhammad+Asad+Khan+%C2%B7+CS+%40+UBIT+%2728+%C2%B7+Karachi%2C+PK;asad%402006+~+%24+cat+about.txt;%E2%86%B3+Exploring+every+corner+of+CS+before+picking+a+lane.;%E2%86%B3+From+AWS+VPCs+to+RAG+pipelines+%E2%80%94+I+learn+by+building.;%E2%86%B3+Philosophy%3A+build+broken+things%2C+understand+why%2C+fix+them.;asad%402006+~+%24+echo+%24STATUS;%E2%86%B3+Open+to+collabs+%26+internships+%E2%96%AE" alt="Terminal" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -42,73 +54,78 @@
 <div align="center">
 
 <!-- Languages -->
-<table><tr><td align="center" colspan="7"><sub><b>Languages</b></sub></td></tr>
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 16px;">
+<tr><td align="center" colspan="7" style="padding: 8px; background-color: #121212; border-bottom: 1px solid #1c1c1c; color: #888888; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><sub><b>Languages</b></sub></td></tr>
 <tr>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=python" width="44" height="44"/><br/><sub>Python</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=cpp" width="44" height="44"/><br/><sub>C++</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=cs" width="44" height="44"/><br/><sub>C#</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=java" width="44" height="44"/><br/><sub>Java</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=js" width="44" height="44"/><br/><sub>JavaScript</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=r" width="44" height="44"/><br/><sub>R</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=assembly" width="44" height="44"/><br/><sub>Assembly</sub></a></td>
+<td align="center" width="85" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=python" width="44" height="44"/><br/><sub>Python</sub></a></td>
+<td align="center" width="85" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=cpp" width="44" height="44"/><br/><sub>C++</sub></a></td>
+<td align="center" width="85" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=cs" width="44" height="44"/><br/><sub>C#</sub></a></td>
+<td align="center" width="85" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=java" width="44" height="44"/><br/><sub>Java</sub></a></td>
+<td align="center" width="85" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=js" width="44" height="44"/><br/><sub>JavaScript</sub></a></td>
+<td align="center" width="85" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=r" width="44" height="44"/><br/><sub>R</sub></a></td>
+<td align="center" width="85" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=assembly" width="44" height="44"/><br/><sub>Assembly</sub></a></td>
 </tr></table>
 
 <br/>
 
 <!-- Cloud & Infrastructure -->
-<table><tr><td align="center" colspan="8"><sub><b>Cloud & Infrastructure</b></sub></td></tr>
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 16px;">
+<tr><td align="center" colspan="8" style="padding: 8px; background-color: #121212; border-bottom: 1px solid #1c1c1c; color: #888888; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><sub><b>Cloud & Infrastructure</b></sub></td></tr>
 <tr>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=aws" width="44" height="44"/><br/><sub>AWS</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=linux" width="44" height="44"/><br/><sub>Linux</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=docker" width="44" height="44"/><br/><sub>Docker</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=nginx" width="44" height="44"/><br/><sub>Nginx</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=ec2" width="44" height="44"/><br/><sub>EC2</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=s3" width="44" height="44"/><br/><sub>S3</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=rds" width="44" height="44"/><br/><sub>RDS</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=iam" width="44" height="44"/><br/><sub>IAM</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=aws" width="44" height="44"/><br/><sub>AWS</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=linux" width="44" height="44"/><br/><sub>Linux</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=docker" width="44" height="44"/><br/><sub>Docker</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=nginx" width="44" height="44"/><br/><sub>Nginx</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=ec2" width="44" height="44"/><br/><sub>EC2</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=s3" width="44" height="44"/><br/><sub>S3</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=rds" width="44" height="44"/><br/><sub>RDS</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=iam" width="44" height="44"/><br/><sub>IAM</sub></a></td>
 </tr></table>
 
 <br/>
 
-<!-- AI / Data -->
-<table><tr><td align="center" colspan="9"><sub><b>AI / Data</b></sub></td></tr>
+<!-- AI & Data Science -->
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 16px;">
+<tr><td align="center" colspan="9" style="padding: 8px; background-color: #121212; border-bottom: 1px solid #1c1c1c; color: #888888; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><sub><b>AI & Data Science</b></sub></td></tr>
 <tr>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=pytorch" width="44" height="44"/><br/><sub>PyTorch</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=langchain" width="44" height="44"/><br/><sub>LangChain</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=faiss" width="44" height="44"/><br/><sub>FAISS</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=groq" width="44" height="44"/><br/><sub>Groq</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=gemini" width="44" height="44"/><br/><sub>Gemini</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=pandas" width="44" height="44"/><br/><sub>pandas</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=numpy" width="44" height="44"/><br/><sub>NumPy</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=sklearn" width="44" height="44"/><br/><sub>Scikit-Learn</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=seaborn" width="44" height="44"/><br/><sub>Seaborn</sub></a></td>
+<td align="center" width="68" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=pytorch" width="44" height="44"/><br/><sub>PyTorch</sub></a></td>
+<td align="center" width="68" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=langchain" width="44" height="44"/><br/><sub>LangChain</sub></a></td>
+<td align="center" width="68" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=faiss" width="44" height="44"/><br/><sub>FAISS</sub></a></td>
+<td align="center" width="68" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=groq" width="44" height="44"/><br/><sub>Groq</sub></a></td>
+<td align="center" width="68" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=gemini" width="44" height="44"/><br/><sub>Gemini</sub></a></td>
+<td align="center" width="68" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=pandas" width="44" height="44"/><br/><sub>pandas</sub></a></td>
+<td align="center" width="68" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=numpy" width="44" height="44"/><br/><sub>NumPy</sub></a></td>
+<td align="center" width="68" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=sklearn" width="44" height="44"/><br/><sub>Scikit-Learn</sub></a></td>
+<td align="center" width="68" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=seaborn" width="44" height="44"/><br/><sub>Seaborn</sub></a></td>
 </tr></table>
 
 <br/>
 
-<!-- Backend & Tools -->
-<table><tr><td align="center" colspan="8"><sub><b>Backend & Tools</b></sub></td></tr>
+<!-- Backend & Tooling -->
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 16px;">
+<tr><td align="center" colspan="8" style="padding: 8px; background-color: #121212; border-bottom: 1px solid #1c1c1c; color: #888888; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><sub><b>Backend & Tooling</b></sub></td></tr>
 <tr>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=fastapi" width="44" height="44"/><br/><sub>FastAPI</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=node" width="44" height="44"/><br/><sub>Node.js</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=mysql" width="44" height="44"/><br/><sub>MySQL</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=git" width="44" height="44"/><br/><sub>Git</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=github" width="44" height="44"/><br/><sub>GitHub</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=vscode" width="44" height="44"/><br/><sub>VS Code</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=jupyter" width="44" height="44"/><br/><sub>Jupyter</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=bash" width="44" height="44"/><br/><sub>Bash</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=fastapi" width="44" height="44"/><br/><sub>FastAPI</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=node" width="44" height="44"/><br/><sub>Node.js</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=mysql" width="44" height="44"/><br/><sub>MySQL</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=git" width="44" height="44"/><br/><sub>Git</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=github" width="44" height="44"/><br/><sub>GitHub</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=vscode" width="44" height="44"/><br/><sub>VS Code</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=jupyter" width="44" height="44"/><br/><sub>Jupyter</sub></a></td>
+<td align="center" width="75" style="padding: 12px 2px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=bash" width="44" height="44"/><br/><sub>Bash</sub></a></td>
 </tr></table>
 
 <br/>
 
-<!-- Frontend & GUI -->
-<table><tr><td align="center" colspan="5"><sub><b>Frontend & GUI</b></sub></td></tr>
+<!-- Frontend & Web -->
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 16px;">
+<tr><td align="center" colspan="5" style="padding: 8px; background-color: #121212; border-bottom: 1px solid #1c1c1c; color: #888888; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"><sub><b>Frontend & Web</b></sub></td></tr>
 <tr>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=react" width="44" height="44"/><br/><sub>React / RN</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=tailwindcss" width="44" height="44"/><br/><sub>Tailwind</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=threejs" width="44" height="44"/><br/><sub>Three.js</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=html" width="44" height="44"/><br/><sub>HTML5</sub></a></td>
-<td align="center" width="75"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=css" width="44" height="44"/><br/><sub>CSS3</sub></a></td>
+<td align="center" width="120" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=react" width="44" height="44"/><br/><sub>React / RN</sub></a></td>
+<td align="center" width="120" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=tailwindcss" width="44" height="44"/><br/><sub>Tailwind</sub></a></td>
+<td align="center" width="120" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=threejs" width="44" height="44"/><br/><sub>Three.js</sub></a></td>
+<td align="center" width="120" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=html" width="44" height="44"/><br/><sub>HTML5</sub></a></td>
+<td align="center" width="120" style="padding: 12px 4px;"><a href="#"><img src="https://muhammadasad-portfolio.vercel.app/api/icon?name=css" width="44" height="44"/><br/><sub>CSS3</sub></a></td>
 </tr></table>
 
 </div>
@@ -122,7 +139,7 @@
 <div align="center">
 
 <!-- Project 1: Asaaniyat -->
-<table width="600" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
       <img src="https://muhammadasad-portfolio.vercel.app/images/projects/asaaniyat/asaaniyat.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
@@ -148,7 +165,7 @@
 <br/>
 
 <!-- Project 2: MogScope -->
-<table width="600" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
       <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
@@ -174,7 +191,7 @@
 <br/>
 
 <!-- Project 3: LegalEaseAI -->
-<table width="600" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
       <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
@@ -200,7 +217,7 @@
 <br/>
 
 <!-- Project 4: PollPulse -->
-<table width="600" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
       <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
@@ -226,7 +243,7 @@
 <br/>
 
 <!-- Project 5: DevPulse -->
-<table width="600" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
       <img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse/devpulse.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
@@ -271,31 +288,20 @@
   </tr>
 </table>
 
-<br/>
-
-<!-- 3D Contribution Graph -->
-<sub><b>📊 3D Contribution Graph</b></sub><br/><br/>
-<img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="75%"/>
-
 <br/><br/>
 
 <!-- Contribution Snake -->
-<sub><b>🐍 Contribution Snake</b></sub><br/><br/>
-<img src="https://raw.githubusercontent.com/Asad101001/Asad101001/output/github-snake-dark.svg" alt="snake gif" />
+<img src="https://raw.githubusercontent.com/Asad101001/Asad101001/output/github-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:111111&height=52&text=%E2%97%88+CONNECT+AND+FUN&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:111111&height=52&text=%E2%97%88+CONNECT&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%"/>
 
 <br/>
 
 <div align="center">
-
-Catch me building stuff, posting takes, or listening to music. Slide in anywhere 👋
-
-<br/><br/>
 
 <a href="https://discord.com/users/1390327957062418654"><img src="https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
 &nbsp;
@@ -320,33 +326,12 @@ Catch me building stuff, posting takes, or listening to music. Slide in anywhere
 
 <!-- WakaTime Code Hours -->
 <!--START_SECTION:waka-->
-
-```txt
-From: 01 August 2026 - To: 08 August 2026
-
-Markdown     1 hr 51 mins          ██████████████████·······   71.17 %
-Python       18 mins               ███······················   11.75 %
-JavaScript   11 mins               ██·······················   07.47 %
-JSON         9 mins                ██·······················   06.25 %
-HTML         5 mins                █························   03.26 %
-```
-
 <!--END_SECTION:waka-->
-
-<br/><br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" alt="Jokes Card" />
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=110&section=footer" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3500&pause=1200&color=444444&center=true&vCenter=true&width=620&lines=Sometimes+it+works...+sometimes+it+doesn%27t.;Documentation+shall+be+my+demise.;Debugging+is+just+advanced+googling.;It%27s+not+a+bug%2C+it%27s+a+feature.;Ctrl+Z+is+my+best+friend." alt="Footer quotes" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=620&lines=%3C%2FAsad%3E+%E2%80%94+Built+with+curiosity+%26+caffeine+%C2%B7+Karachi%2C+Pakistan" alt="Footer tag" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=110&section=footer" width="100%"/>
 </div>
