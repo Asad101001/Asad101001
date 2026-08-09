@@ -30,15 +30,12 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 10px; text-align: left;">
   <tr>
     <td style="padding: 10px 16px; background-color: #121212; border-bottom: 1px solid #1c1c1c; font-family: 'JetBrains Mono', monospace; font-size: 12px; color: #888888; text-align: left;">
-      <span style="color: #ff5f56; font-size: 13px;">●</span> 
-      <span style="color: #ffbd2e; font-size: 13px;">●</span> 
-      <span style="color: #27c93f; font-size: 13px;">●</span> 
-      &nbsp;&nbsp;<b>asad@ubithome: ~ (zsh)</b>
+      🔴 🟡 🟢 &nbsp;&nbsp;<b>asad@2006: ~ (zsh)</b>
     </td>
   </tr>
   <tr>
-    <td style="padding: 18px 24px 14px 24px; background-color: #080808; text-align: left;">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=180&lines=asad%402006+~+%24+whoami;%E2%86%B3+Muhammad+Asad+Khan+%C2%B7+CS+%40+UBIT+%2728+%C2%B7+Karachi%2C+PK;asad%402006+~+%24+cat+about.txt;%E2%86%B3+Exploring+every+corner+of+CS+before+picking+a+lane.;%E2%86%B3+From+AWS+VPCs+to+RAG+pipelines+%E2%80%94+I+learn+by+building.;%E2%86%B3+Philosophy%3A+build+broken+things%2C+understand+why%2C+fix+them.;asad%402006+~+%24+echo+%24STATUS;%E2%86%B3+Open+to+collabs+%26+internships+%E2%96%AE" alt="Terminal" />
+    <td style="padding: 14px 20px 6px 20px; background-color: #080808; text-align: left;">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=105&lines=asad%402006+~+%24+whoami;%E2%86%B3+Muhammad+Asad+Khan+%C2%B7+CS+%40+UBIT+%2728+%C2%B7+Karachi%2C+PK;asad%402006+~+%24+cat+about.txt;%E2%86%B3+Exploring+every+corner+of+CS+before+picking+a+lane.;%E2%86%B3+From+AWS+VPCs+to+RAG+pipelines+%E2%80%94+I+learn+by+building.;%E2%86%B3+Philosophy%3A+build+broken+things%2C+understand+why%2C+fix+them.;asad%402006+~+%24+echo+%24STATUS;%E2%86%B3+Open+to+collabs+%26+internships+%E2%96%AE" alt="Terminal" />
     </td>
   </tr>
 </table>
