@@ -34,8 +34,8 @@
     </td>
   </tr>
   <tr>
-    <td style="padding: 14px 20px 6px 20px; background-color: #080808; text-align: left;">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=105&lines=asad%402006+~+%24+whoami;%E2%86%B3+Muhammad+Asad+Khan+%C2%B7+CS+%40+UBIT+%2728+%C2%B7+Karachi%2C+PK;asad%402006+~+%24+cat+about.txt;%E2%86%B3+Exploring+every+corner+of+CS+before+picking+a+lane.;%E2%86%B3+From+AWS+VPCs+to+RAG+pipelines+%E2%80%94+I+learn+by+building.;%E2%86%B3+Philosophy%3A+build+broken+things%2C+understand+why%2C+fix+them.;asad%402006+~+%24+echo+%24STATUS;%E2%86%B3+Open+to+collabs+%26+internships+%E2%96%AE" alt="Terminal" />
+    <td style="padding: 16px 20px 12px 20px; background-color: #080808; text-align: left;">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=205&lines=asad%402006+~+%24+whoami;%E2%86%B3+Muhammad+Asad+Khan+%C2%B7+CS+%40+UBIT+%2728+%C2%B7+Karachi%2C+PK;asad%402006+~+%24+cat+about.txt;%E2%86%B3+Exploring+every+corner+of+CS+before+picking+a+lane.;%E2%86%B3+From+AWS+VPCs+to+RAG+pipelines+%E2%80%94+I+learn+by+building.;%E2%86%B3+Philosophy%3A+build+broken+things%2C+understand+why%2C+fix+them.;asad%402006+~+%24+echo+%24STATUS;%E2%86%B3+Open+to+collabs+%26+internships+%E2%96%AE" alt="Terminal" />
     </td>
   </tr>
 </table>
