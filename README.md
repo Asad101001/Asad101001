@@ -143,12 +143,15 @@
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">Asaaniyat</h3>
-      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Agentic AI mobile orchestrator organizing Pakistan's informal economy. Built with React Native and Express backend, featuring an 8-agent LangChain workflow that parses voice commands in Roman Urdu (via Whisper), coordinates real-time SMS services, and manages session state via MongoDB.</p>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Agentic AI mobile orchestrator empowering Pakistan's informal economy. Features an 8-agent LangChain workflow that parses multi-lingual Roman Urdu voice notes via OpenAI Whisper, coordinates real-time SMS dispatches via Twilio, and manages persistent session state and worker dispatch routing via Express & MongoDB.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=chainlink&logoColor=white" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Whisper_AI-0a0a0a?style=flat-square&logo=openai&logoColor=412991" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248" height="18"/>
+        <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Twilio-0a0a0a?style=flat-square&logo=twilio&logoColor=F22F46" height="18"/>
       </div>
       <div>
         <a href="https://github.com/Asad101001/AntigravityHackathon"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
@@ -169,12 +172,14 @@
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">MogScope</h3>
-      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Satirical facial analytics platform. Uses TensorFlow.js SSD MobileNet v1 face landmark detection (68-points) for custom looksmaxing scoring, a real-time multiplayer "Mog Battle" system, Three.js 3D skull mapping, and Llama 3.3 generated roasts.</p>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Satirical AI facial analytics platform. Employs TensorFlow.js MobileNet v1 for 68-point facial landmark detection, custom geometric ratio algorithms for looksmax scoring, real-time multiplayer "Mog Battles" via WebSockets, Three.js 3D skull mapping, and Groq-accelerated Llama 3.3 for roasting capabilities.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/TensorFlow.js-0a0a0a?style=flat-square&logo=tensorflow&logoColor=FF6F00" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/Three.js-0a0a0a?style=flat-square&logo=threedotjs&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Groq-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=FF6F00" height="18"/>
+        <img src="https://img.shields.io/badge/Groq_/_Llama_3.3-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/WebSockets-0a0a0a?style=flat-square&logo=socketdotio&logoColor=white" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" height="18"/>
       </div>
       <div>
         <a href="https://github.com/Asad101001/mogscope"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
@@ -195,12 +200,13 @@
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">LegalEaseAI</h3>
-      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">A legal contract risk-rating and document intelligence platform. Leverages LangChain to chunk and vectorize PDF agreements into a FAISS vector store, delivering semantic search, clause risk analysis, Urdu explanations, and PDF reports.</p>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Legal contract risk-rating and document intelligence platform. Leverages PyPDF2 and LangChain to chunk and index complex agreements into a high-performance FAISS vector store, providing semantic clause retrieval, automated risk scoring, bilingual Urdu summaries, and report generation via FastAPI.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=05998B" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=chainlink&logoColor=white" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/FAISS-0a0a0a?style=flat-square&logo=meta&logoColor=044F88" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Groq-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/>
+        <img src="https://img.shields.io/badge/Groq_/_Llama_3.3-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/>
       </div>
       <div>
         <a href="https://github.com/Asad101001/LegalEaseAI"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
@@ -221,12 +227,15 @@
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">PollPulse</h3>
-      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Real-time polling platform built on AWS. Features a custom VPC with EC2 and RDS MySQL isolation. Delivers live data visualization via Chart.js and secure Node.js authentication.</p>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Scalable real-time polling infrastructure deployed on AWS. Architected with custom VPC subnets isolating EC2 compute instances and RDS MySQL databases, utilizing Chart.js for real-time response aggregation, JWT security, Nginx reverse proxying, and Docker containerization.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonaws&logoColor=FF9900" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18"/>
+        <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/AWS_VPC-0a0a0a?style=flat-square&logo=amazonaws&logoColor=FF9900" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/MySQL_RDS-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=2496ED" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Nginx-0a0a0a?style=flat-square&logo=nginx&logoColor=009639" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Chart.js-0a0a0a?style=flat-square&logo=chartdotjs&logoColor=FF6384" height="18"/>
       </div>
       <div>
         <a href="https://github.com/Asad101001/pollpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
@@ -247,12 +256,15 @@
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">DevPulse</h3>
-      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Developer telemetry and cognitive load analyzer. Connects to GitHub Webhooks to process commit logs, utilizing Llama 3.3 sentiment analysis to evaluate developer burnout indicators and visualize telemetry via Chart.js dashboards.</p>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Developer cognitive load and burnout analyzer. Integrates GitHub Webhooks to intercept commit logs, applying Llama 3.3 sentiment analysis and telemetry heuristics to detect developer stress indicators, track coding patterns, and render interactive analytics dashboards.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Groq-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/>
+        <img src="https://img.shields.io/badge/GitHub_Webhooks-0a0a0a?style=flat-square&logo=github&logoColor=white" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Groq_/_Llama_3.3-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Chart.js-0a0a0a?style=flat-square&logo=chartdotjs&logoColor=FF6384" height="18"/>
       </div>
       <div>
         <a href="https://github.com/Asad101001/devpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
