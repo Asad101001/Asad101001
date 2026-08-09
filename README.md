@@ -155,8 +155,6 @@
       </div>
       <div>
         <a href="https://github.com/Asad101001/AntigravityHackathon"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
-        &nbsp;
-        <a href="https://asaaniyat-admin.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
@@ -183,8 +181,6 @@
       </div>
       <div>
         <a href="https://github.com/Asad101001/mogscope"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
-        &nbsp;
-        <a href="https://mogscope.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
@@ -210,8 +206,6 @@
       </div>
       <div>
         <a href="https://github.com/Asad101001/LegalEaseAI"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
-        &nbsp;
-        <a href="https://legal-ease-ai-iota.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
@@ -239,8 +233,6 @@
       </div>
       <div>
         <a href="https://github.com/Asad101001/pollpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
-        &nbsp;
-        <a href="https://muhammadasad-portfolio.vercel.app/demo.html?p=PollPulse&v=pollpulse/pollpulse-demo.mp4"><img src="https://img.shields.io/badge/Watch_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
@@ -268,8 +260,6 @@
       </div>
       <div>
         <a href="https://github.com/Asad101001/devpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
-        &nbsp;
-        <a href="https://devpulse-app.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
