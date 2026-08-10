@@ -321,6 +321,17 @@
 
 <!-- WakaTime Code Hours -->
 <!--START_SECTION:waka-->
+
+```txt
+From: 02 August 2026 - To: 09 August 2026
+
+Markdown     35 mins               ████████████·············   47.02 %
+Python       18 mins               ██████···················   24.11 %
+JSON         9 mins                ███······················   12.81 %
+JavaScript   7 mins                ██·······················   09.15 %
+HTML         5 mins                ██·······················   06.69 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
