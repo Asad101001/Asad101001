@@ -5,7 +5,7 @@
 <h1 align="center">Muhammad Asad Khan</h1>
 
 <p align="center">
-  <b>CS @ UBIT '28</b> &nbsp;·&nbsp; <b>Karachi, PK</b> &nbsp;·&nbsp; <b>System Design &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Distributed Systems</b>
+  <b>CS @ UBIT '28</b> &nbsp;·&nbsp; <b>Karachi, PK</b> &nbsp;·&nbsp; <b>Cloud Infra & Multi-Agent Workflows &nbsp;·&nbsp; Exploring Agentic AI & System Design</b>
 </p>
 
 <br/>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td style="padding: 16px 20px 12px 20px; background-color: #080808; text-align: left;">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=230&lines=asad%402006%20~%20%24%20whoami;%E2%86%B3%20Muhammad%20Asad%20Khan%20%C2%B7%20CS%20%40%20UBIT%20'28%20%C2%B7%20Karachi%2C%20PK;asad%402006%20~%20%24%20cat%20focus.txt;%E2%86%B3%20System%20Design%20%C2%B7%20Agentic%20AI%20%C2%B7%20Distributed%20Architectures;asad%402006%20~%20%24%20cat%20philosophy.txt;%E2%86%B3%20%22Build%20broken%20things%2C%20understand%20why%20they're%20broken%2C%20unbreak%20them.%22;asad%402006%20~%20%24%20echo%20%24STATUS;%E2%86%B3%20Open%20to%20collabs%20%26%20internships%20%E2%96%AE" alt="Terminal" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=265&lines=asad%402006%20~%20%24%20whoami;%E2%86%B3%20Muhammad%20Asad%20Khan%20%C2%B7%20CS%20%40%20UBIT%20'28%20%C2%B7%20Karachi%2C%20PK;asad%402006%20~%20%24%20cat%20focus.txt;%E2%86%B3%20Cloud%20Infrastructure%20%C2%B7%20Multi-Agent%20Workflows;asad%402006%20~%20%24%20cat%20exploring.txt;%E2%86%B3%20Diving%20into%20Agentic%20AI%20%26%20System%20Design;asad%402006%20~%20%24%20cat%20philosophy.txt;%E2%86%B3%20%22Build%20broken%20things%2C%20learn%20why%20they're%20broken%2C%20unbreak%20them.%22;asad%402006%20~%20%24%20echo%20%24STATUS;%E2%86%B3%20Open%20to%20collabs%20%26%20learning%20%E2%96%AE" alt="Terminal" />
     </td>
   </tr>
 </table>
@@ -190,16 +190,16 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://raw.githubusercontent.com/Asad101001/wc-simulator/main/assets/bg.png" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
+      <img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/assets/wc-simulator-banner.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">World Cup Simulator</h3>
-      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Pure C++ knockout stage tournament simulator mirroring the 32-team FIFA 2026 bracket. Built with custom binary bracket trees, stochastic win-probability models derived from FIFA world rankings, and dynamic 60 FPS visual rendering powered by Raylib without STL dependencies.</p>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Single-elimination 32-team tournament simulator built in procedural C++ & Raylib for 3rd Semester DSA coursework. Implements a 32×32 graph-based Elo win-probability matrix with stochastic upset mechanics, custom pointer-linked binary bracket trees without STL/OOP, and an interactive 60 FPS visual bracket interface.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=c%2B%2B&logoColor=00599C" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/Raylib-0a0a0a?style=flat-square&logo=raylib&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Binary_Trees-0a0a0a?style=flat-square&logo=git&logoColor=F05032" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Win32-0a0a0a?style=flat-square&logo=windows&logoColor=0078D6" height="18"/>
+        <img src="https://img.shields.io/badge/Data_Structures-0a0a0a?style=flat-square&logo=git&logoColor=FF6F00" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Graph_Theory-0a0a0a?style=flat-square&logo=diagramsdotnet&logoColor=F08705" height="18"/>
       </div>
       <div>
         <a href="https://github.com/Asad101001/wc-simulator"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
