@@ -5,7 +5,7 @@
 <h1 align="center">Muhammad Asad Khan</h1>
 
 <p align="center">
-  <b>CS @ UBIT '28</b> &nbsp;·&nbsp; <b>Karachi, PK</b> &nbsp;·&nbsp; <b>Cloud Infra & Multi-Agent Workflows &nbsp;·&nbsp; Exploring Agentic AI & System Design</b>
+  <b>CS @ UBIT '28</b> &nbsp;·&nbsp; <b>Karachi, PK</b> &nbsp;·&nbsp; <b>Cloud Infra & Multi-Agent Workflows &nbsp;·&nbsp; Distributed Systems & Agentic AI</b>
 </p>
 
 <br/>
@@ -194,12 +194,12 @@
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">World Cup Simulator</h3>
-      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Single-elimination 32-team tournament simulator built in procedural C++ & Raylib for 3rd Semester DSA coursework. Implements a 32×32 graph-based Elo win-probability matrix with stochastic upset mechanics, custom pointer-linked binary bracket trees without STL/OOP, and an interactive 60 FPS visual bracket interface.</p>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Single-elimination 32-team knockout tournament simulator built in procedural C++ & Raylib for 3rd Semester DSA coursework. Implements custom pointer-linked binary bracket trees without STL/OOP, team ranking win-probability calculations with stochastic upset mechanics, and an interactive step-by-step visual bracket interface.</p>
       <div style="margin-bottom: 12px;">
         <img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=c%2B%2B&logoColor=00599C" height="18"/> &nbsp;
         <img src="https://img.shields.io/badge/Raylib-0a0a0a?style=flat-square&logo=raylib&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Data_Structures-0a0a0a?style=flat-square&logo=git&logoColor=FF6F00" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Graph_Theory-0a0a0a?style=flat-square&logo=diagramsdotnet&logoColor=F08705" height="18"/>
+        <img src="https://img.shields.io/badge/Binary_Trees-0a0a0a?style=flat-square" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/DSA_Project-0a0a0a?style=flat-square" height="18"/>
       </div>
       <div>
         <a href="https://github.com/Asad101001/wc-simulator"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
