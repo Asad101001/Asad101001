@@ -139,7 +139,7 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/asaaniyat/asaaniyat-poster.webp" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
+      <img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/assets/asaaniyat-banner.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">Asaaniyat</h3>
