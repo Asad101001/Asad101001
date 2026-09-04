@@ -5,7 +5,7 @@
 <h1 align="center">Muhammad Asad Khan</h1>
 
 <p align="center">
-  <b>CS @ UBIT '28</b> &nbsp;·&nbsp; <b>Karachi, PK</b> &nbsp;·&nbsp; <b>Cloud &nbsp;·&nbsp; AI &nbsp;·&nbsp; Systems</b>
+  <b>CS @ UBIT '28</b> &nbsp;·&nbsp; <b>Karachi, PK</b> &nbsp;·&nbsp; <b>System Design &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Distributed Systems</b>
 </p>
 
 <br/>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td style="padding: 16px 20px 12px 20px; background-color: #080808; text-align: left;">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=205&lines=asad%402006+~+%24+whoami;%E2%86%B3+Muhammad+Asad+Khan+%C2%B7+CS+%40+UBIT+%2728+%C2%B7+Karachi%2C+PK;asad%402006+~+%24+cat+about.txt;%E2%86%B3+Exploring+every+corner+of+CS+before+picking+a+lane.;%E2%86%B3+From+AWS+VPCs+to+RAG+pipelines+%E2%80%94+I+learn+by+building.;%E2%86%B3+Philosophy%3A+build+broken+things%2C+understand+why%2C+fix+them.;asad%402006+~+%24+echo+%24STATUS;%E2%86%B3+Open+to+collabs+%26+internships+%E2%96%AE" alt="Terminal" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=230&lines=asad%402006%20~%20%24%20whoami;%E2%86%B3%20Muhammad%20Asad%20Khan%20%C2%B7%20CS%20%40%20UBIT%20'28%20%C2%B7%20Karachi%2C%20PK;asad%402006%20~%20%24%20cat%20focus.txt;%E2%86%B3%20System%20Design%20%C2%B7%20Agentic%20AI%20%C2%B7%20Distributed%20Architectures;asad%402006%20~%20%24%20cat%20philosophy.txt;%E2%86%B3%20%22Build%20broken%20things%2C%20understand%20why%20they're%20broken%2C%20unbreak%20them.%22;asad%402006%20~%20%24%20echo%20%24STATUS;%E2%86%B3%20Open%20to%20collabs%20%26%20internships%20%E2%96%AE" alt="Terminal" />
     </td>
   </tr>
 </table>
@@ -139,7 +139,7 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/asaaniyat/asaaniyat.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/asaaniyat/asaaniyat-poster.webp" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">Asaaniyat</h3>
@@ -164,7 +164,7 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://raw.githubusercontent.com/Asad101001/ubit-gpa-calculator/main/public/images/og-preview.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      <img src="https://raw.githubusercontent.com/Asad101001/ubit-gpa-calculator/main/public/images/og-preview.png" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">UBIT GPA Calculator & Results Hub</h3>
@@ -190,7 +190,7 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://raw.githubusercontent.com/Asad101001/wc-simulator/main/assets/bg.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      <img src="https://raw.githubusercontent.com/Asad101001/wc-simulator/main/assets/bg.png" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">World Cup Simulator</h3>
@@ -214,7 +214,7 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.webp" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">MogScope</h3>
@@ -239,7 +239,7 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.webp" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">LegalEaseAI</h3>
@@ -264,7 +264,7 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.webp" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
     </td>
     <td valign="top" style="padding: 16px 20px;">
       <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">PollPulse</h3>
