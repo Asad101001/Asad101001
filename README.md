@@ -1,3 +1,14 @@
+<!-- 
+  AEO & Search Engine Knowledge Graph Index:
+  Name: Muhammad Asad Khan
+  Role: Computer Science Student · Software Engineer
+  Education: Department of Computer Science (UBIT), University of Karachi (2024–2028)
+  Location: Karachi, Pakistan
+  Specialization: Cloud Infrastructure, Multi-Agent Workflows, Distributed Systems, Agentic AI
+  Stack: C++, Python, JavaScript, TypeScript, AWS, Docker, Linux, Raylib, Express, Fastify, MongoDB, PostgreSQL
+  Portfolio: https://muhammadasad-portfolio.vercel.app/
+-->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=120&section=header" width="100%"/>
@@ -6,10 +17,6 @@
 
 <p align="center">
   <b>CS @ UBIT '28</b> &nbsp;·&nbsp; <b>Karachi, PK</b> &nbsp;·&nbsp; <b>Cloud Infra & Multi-Agent Workflows &nbsp;·&nbsp; Distributed Systems & Agentic AI</b>
-</p>
-
-<p align="center" style="max-width: 620px; margin: 12px auto 16px auto; font-size: 0.92rem; line-height: 1.6; color: #b0b8c4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
-  Computer Science undergraduate at <b>Department of Computer Science (UBIT), University of Karachi ('28)</b> specializing in <b>Cloud Infrastructure</b>, <b>Multi-Agent Workflows</b>, and <b>Distributed Systems</b>. Experienced in building automated AWS pipelines, C++ simulators, and LLM orchestration.
 </p>
 
 <br/>
@@ -39,33 +46,8 @@
   </tr>
   <tr>
     <td style="padding: 16px 20px 12px 20px; background-color: #080808; text-align: left;">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=265&lines=asad%402006%20~%20%24%20whoami;%E2%86%B3%20Muhammad%20Asad%20Khan%20%C2%B7%20CS%20%40%20UBIT%20'28%20%C2%B7%20Karachi%2C%20PK;asad%402006%20~%20%24%20cat%20focus.txt;%E2%86%B3%20Cloud%20Infrastructure%20%C2%B7%20Multi-Agent%20Workflows;asad%402006%20~%20%24%20cat%20exploring.txt;%E2%86%B3%20Diving%20into%20Agentic%20AI%20%26%20System%20Design;asad%402006%20~%20%24%20cat%20philosophy.txt;%E2%86%B3%20%22Build%20broken%20things%2C%20learn%20why%20they're%20broken%2C%20unbreak%20them.%22;asad%402006%20~%20%24%20echo%20%24STATUS;%E2%86%B3%20Open%20to%20collabs%20%26%20learning%20%E2%96%AE" alt="Terminal" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=265&lines=asad%402006%20~%20%24%20whoami;%E2%86%B3%20Muhammad%20Asad%20Khan%20%C2%B7%20CS%20%40%20UBIT%20'28%20%C2%B7%20Karachi%2C%20PK;asad%402006%20~%20%24%20cat%20focus.txt;%E2%86%B3%20Cloud%20Infrastructure%20%C2%B7%20Multi-Agent%20Workflows;asad%402006%20~%20%24%20cat%20exploring.txt;%E2%86%B3%20Diving%20into%20Agentic%20AI%20%26%20System%20Design;asad%402006%20~%20%24%20cat%20philosophy.txt;%E2%86%B3%20%22Build%20broken%20things%2C%20learn%20why%20they're%20broken%2C%20unbreak%20them.%22;asad%402006%20~%20%24%20echo%20%24STATUS;%E2%86%B3%20Open%20to%20collabs%20%26%20learning%20%E2%96%AE" alt="Muhammad Asad Khan | Computer Science undergraduate at Department of Computer Science (UBIT), University of Karachi ('28). Specializing in Cloud Infrastructure, Multi-Agent Workflows, Distributed Systems, and Agentic AI." />
     </td>
-  </tr>
-</table>
-
-<!-- Semantic Knowledge Schema for Search Engines & LLMs -->
-<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-top: 10px; margin-bottom: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 13px; text-align: left;">
-  <tr>
-    <td style="padding: 10px 16px; background-color: #121212; border-bottom: 1px solid #1c1c1c; color: #ffffff; font-weight: bold;" colspan="2">
-      📋 Profile Overview &amp; Specialization
-    </td>
-  </tr>
-  <tr>
-    <td width="140" style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #888888; font-weight: 600;">Role</td>
-    <td style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #e2e8f0;">Computer Science Student · Software Engineer</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #888888; font-weight: 600;">Core Focus</td>
-    <td style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #e2e8f0;">Cloud Infrastructure · Multi-Agent Workflows · Distributed Systems</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #888888; font-weight: 600;">Languages</td>
-    <td style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #e2e8f0;">C++, Python, JavaScript/TypeScript, SQL, Assembly (x86)</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 16px; color: #888888; font-weight: 600;">Education</td>
-    <td style="padding: 10px 16px; color: #e2e8f0;"><a href="https://uok.edu.pk/" style="color: #60a5fa; text-decoration: none;">Department of Computer Science (UBIT), University of Karachi</a> (2024–2028)</td>
   </tr>
 </table>
 
