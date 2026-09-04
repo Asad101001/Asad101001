@@ -8,13 +8,17 @@
   <b>CS @ UBIT '28</b> &nbsp;·&nbsp; <b>Karachi, PK</b> &nbsp;·&nbsp; <b>Cloud Infra & Multi-Agent Workflows &nbsp;·&nbsp; Distributed Systems & Agentic AI</b>
 </p>
 
+<p align="center" style="max-width: 620px; margin: 12px auto 16px auto; font-size: 0.92rem; line-height: 1.6; color: #b0b8c4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+  Computer Science undergraduate at <b>Department of Computer Science (UBIT), University of Karachi ('28)</b> specializing in <b>Cloud Infrastructure</b>, <b>Multi-Agent Workflows</b>, and <b>Distributed Systems</b>. Experienced in building automated AWS pipelines, C++ simulators, and LLM orchestration.
+</p>
+
 <br/>
 
-<a href="https://muhammadasad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://muhammadasad-portfolio.vercel.app/" title="Muhammad Asad Khan Portfolio"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" alt="Muhammad Asad Khan Portfolio"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/muhammadasadk/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammadasadk/" title="Muhammad Asad Khan LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Asad Khan LinkedIn"/></a>
 &nbsp;
-<a href="mailto:muhammadasadk42@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:muhammadasadk42@gmail.com" title="Email Muhammad Asad Khan"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Asad Khan"/></a>
 
 </div>
 
@@ -27,7 +31,7 @@
 <div align="center">
 
 <!-- ASCII Terminal Window Container (Starts directly with whoami) -->
-<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 10px; text-align: left;">
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 12px; text-align: left;">
   <tr>
     <td style="padding: 10px 16px; background-color: #121212; border-bottom: 1px solid #1c1c1c; font-family: 'JetBrains Mono', monospace; font-size: 12px; color: #888888; text-align: left;">
       🔴 🟡 🟢 &nbsp;&nbsp;<b>asad@2006: ~ (zsh)</b>
@@ -37,6 +41,31 @@
     <td style="padding: 16px 20px 12px 20px; background-color: #080808; text-align: left;">
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=E2E8F0&multiline=true&repeat=true&width=590&height=265&lines=asad%402006%20~%20%24%20whoami;%E2%86%B3%20Muhammad%20Asad%20Khan%20%C2%B7%20CS%20%40%20UBIT%20'28%20%C2%B7%20Karachi%2C%20PK;asad%402006%20~%20%24%20cat%20focus.txt;%E2%86%B3%20Cloud%20Infrastructure%20%C2%B7%20Multi-Agent%20Workflows;asad%402006%20~%20%24%20cat%20exploring.txt;%E2%86%B3%20Diving%20into%20Agentic%20AI%20%26%20System%20Design;asad%402006%20~%20%24%20cat%20philosophy.txt;%E2%86%B3%20%22Build%20broken%20things%2C%20learn%20why%20they're%20broken%2C%20unbreak%20them.%22;asad%402006%20~%20%24%20echo%20%24STATUS;%E2%86%B3%20Open%20to%20collabs%20%26%20learning%20%E2%96%AE" alt="Terminal" />
     </td>
+  </tr>
+</table>
+
+<!-- Semantic Knowledge Schema for Search Engines & LLMs -->
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-top: 10px; margin-bottom: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 13px; text-align: left;">
+  <tr>
+    <td style="padding: 10px 16px; background-color: #121212; border-bottom: 1px solid #1c1c1c; color: #ffffff; font-weight: bold;" colspan="2">
+      📋 Profile Overview &amp; Specialization
+    </td>
+  </tr>
+  <tr>
+    <td width="140" style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #888888; font-weight: 600;">Role</td>
+    <td style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #e2e8f0;">Computer Science Student · Software Engineer</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #888888; font-weight: 600;">Core Focus</td>
+    <td style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #e2e8f0;">Cloud Infrastructure · Multi-Agent Workflows · Distributed Systems</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #888888; font-weight: 600;">Languages</td>
+    <td style="padding: 10px 16px; border-bottom: 1px solid #141414; color: #e2e8f0;">C++, Python, JavaScript/TypeScript, SQL, Assembly (x86)</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 16px; color: #888888; font-weight: 600;">Education</td>
+    <td style="padding: 10px 16px; color: #e2e8f0;"><a href="https://uok.edu.pk/" style="color: #60a5fa; text-decoration: none;">Department of Computer Science (UBIT), University of Karachi</a> (2024–2028)</td>
   </tr>
 </table>
 
@@ -139,20 +168,24 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/assets/asaaniyat-banner.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      <a href="https://github.com/Asad101001/Asaaniyat" title="Asaaniyat Repository">
+        <img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/assets/asaaniyat-banner.png" width="160" alt="Asaaniyat Project Banner" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      </a>
     </td>
     <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">Asaaniyat</h3>
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">
+        <a href="https://github.com/Asad101001/Asaaniyat" style="color: #ffffff; text-decoration: none;" title="Asaaniyat Repository">Asaaniyat</a>
+      </h3>
       <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Agentic AI mobile orchestrator empowering Pakistan's informal economy. Features a multi-agent workflow that parses multi-lingual Roman Urdu voice notes via OpenAI Whisper, coordinates real-time SMS dispatches, and manages persistent session state and worker dispatch routing via Express & MongoDB.</p>
       <div style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Whisper_AI-0a0a0a?style=flat-square&logo=openai&logoColor=412991" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248" height="18"/>
+        <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18" alt="React Native"/> &nbsp;
+        <img src="https://img.shields.io/badge/Whisper_AI-0a0a0a?style=flat-square&logo=openai&logoColor=412991" height="18" alt="OpenAI Whisper"/> &nbsp;
+        <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18" alt="Node.js"/> &nbsp;
+        <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18" alt="Express"/> &nbsp;
+        <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248" height="18" alt="MongoDB"/>
       </div>
       <div>
-        <a href="https://github.com/Asad101001/Asaaniyat"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+        <a href="https://github.com/Asad101001/Asaaniyat" title="Asaaniyat Repository"><img src="https://img.shields.io/badge/Asaaniyat_Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22" alt="Asaaniyat Repository"/></a>
       </div>
     </td>
   </tr>
@@ -164,21 +197,25 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://raw.githubusercontent.com/Asad101001/ubit-gpa-calculator/main/public/images/og-preview.png" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
+      <a href="https://github.com/Asad101001/ubit-gpa-calculator" title="UBIT GPA Calculator Repository">
+        <img src="https://raw.githubusercontent.com/Asad101001/ubit-gpa-calculator/main/public/images/og-preview.png" width="160" height="92" alt="UBIT GPA Calculator Preview" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
+      </a>
     </td>
     <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">UBIT GPA Calculator & Results Hub</h3>
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">
+        <a href="https://github.com/Asad101001/ubit-gpa-calculator" style="color: #ffffff; text-decoration: none;" title="UBIT GPA Calculator Repository">UBIT GPA Calculator & Results Hub</a>
+      </h3>
       <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">High-performance neo-brutalist academic portal for DCS UBIT (University of Karachi). Implements exact 4.0 grading algorithms, target CGPA simulation, batch result inspection with seat deduplication, and student privacy controls with Supabase Row-Level Security.</p>
       <div style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/React_19-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178C6" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Vite-0a0a0a?style=flat-square&logo=vite&logoColor=646CFF" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/TailwindCSS-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=3ECF8E" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169E1" height="18"/>
+        <img src="https://img.shields.io/badge/React_19-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18" alt="React 19"/> &nbsp;
+        <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178C6" height="18" alt="TypeScript"/> &nbsp;
+        <img src="https://img.shields.io/badge/Vite-0a0a0a?style=flat-square&logo=vite&logoColor=646CFF" height="18" alt="Vite"/> &nbsp;
+        <img src="https://img.shields.io/badge/TailwindCSS-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" height="18" alt="TailwindCSS"/> &nbsp;
+        <img src="https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=3ECF8E" height="18" alt="Supabase"/> &nbsp;
+        <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169E1" height="18" alt="PostgreSQL"/>
       </div>
       <div>
-        <a href="https://github.com/Asad101001/ubit-gpa-calculator"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+        <a href="https://github.com/Asad101001/ubit-gpa-calculator" title="UBIT GPA Calculator Repository"><img src="https://img.shields.io/badge/ubit--gpa--calculator_Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22" alt="UBIT GPA Calculator Repository"/></a>
       </div>
     </td>
   </tr>
@@ -190,19 +227,23 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/assets/wc-simulator-banner.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      <a href="https://github.com/Asad101001/wc-simulator" title="World Cup Simulator Repository">
+        <img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/assets/wc-simulator-banner.png" width="160" alt="World Cup Simulator Banner" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+      </a>
     </td>
     <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">World Cup Simulator</h3>
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">
+        <a href="https://github.com/Asad101001/wc-simulator" style="color: #ffffff; text-decoration: none;" title="World Cup Simulator Repository">World Cup Simulator</a>
+      </h3>
       <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Single-elimination 32-team knockout tournament simulator built in procedural C++ & Raylib for 3rd Semester DSA coursework. Implements custom pointer-linked binary bracket trees without STL/OOP, team ranking win-probability calculations with stochastic upset mechanics, and an interactive step-by-step visual bracket interface.</p>
       <div style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=c%2B%2B&logoColor=00599C" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Raylib-0a0a0a?style=flat-square&logo=raylib&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Binary_Trees-0a0a0a?style=flat-square" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/DSA_Project-0a0a0a?style=flat-square" height="18"/>
+        <img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=c%2B%2B&logoColor=00599C" height="18" alt="C++"/> &nbsp;
+        <img src="https://img.shields.io/badge/Raylib-0a0a0a?style=flat-square&logo=raylib&logoColor=white" height="18" alt="Raylib"/> &nbsp;
+        <img src="https://img.shields.io/badge/Binary_Trees-0a0a0a?style=flat-square" height="18" alt="Binary Trees"/> &nbsp;
+        <img src="https://img.shields.io/badge/DSA_Project-0a0a0a?style=flat-square" height="18" alt="DSA Project"/>
       </div>
       <div>
-        <a href="https://github.com/Asad101001/wc-simulator"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+        <a href="https://github.com/Asad101001/wc-simulator" title="World Cup Simulator Repository"><img src="https://img.shields.io/badge/wc--simulator_Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22" alt="World Cup Simulator Repository"/></a>
       </div>
     </td>
   </tr>
@@ -214,20 +255,24 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.webp" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
+      <a href="https://github.com/Asad101001/mogscope" title="MogScope Repository">
+        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/mogscope/mogscope.webp" width="160" height="92" alt="MogScope Preview" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
+      </a>
     </td>
     <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">MogScope</h3>
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">
+        <a href="https://github.com/Asad101001/mogscope" style="color: #ffffff; text-decoration: none;" title="MogScope Repository">MogScope</a>
+      </h3>
       <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Satirical AI facial analytics platform. Employs TensorFlow.js MobileNet v1 for 68-point facial landmark detection, custom geometric ratio algorithms for looksmax scoring, a "Mog Battle" system, Three.js 3D skull mapping, and Groq-accelerated Llama 3.3 for roasting capabilities.</p>
       <div style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/TensorFlow.js-0a0a0a?style=flat-square&logo=tensorflow&logoColor=FF6F00" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Three.js-0a0a0a?style=flat-square&logo=threedotjs&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Groq_/_Llama_3.3-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" height="18"/>
+        <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18" alt="React"/> &nbsp;
+        <img src="https://img.shields.io/badge/TensorFlow.js-0a0a0a?style=flat-square&logo=tensorflow&logoColor=FF6F00" height="18" alt="TensorFlow.js"/> &nbsp;
+        <img src="https://img.shields.io/badge/Three.js-0a0a0a?style=flat-square&logo=threedotjs&logoColor=white" height="18" alt="Three.js"/> &nbsp;
+        <img src="https://img.shields.io/badge/Groq_/_Llama_3.3-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18" alt="Groq / Llama 3.3"/> &nbsp;
+        <img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" height="18" alt="Tailwind"/>
       </div>
       <div>
-        <a href="https://github.com/Asad101001/mogscope"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+        <a href="https://github.com/Asad101001/mogscope" title="MogScope Repository"><img src="https://img.shields.io/badge/mogscope_Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22" alt="MogScope Repository"/></a>
       </div>
     </td>
   </tr>
@@ -239,20 +284,24 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.webp" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
+      <a href="https://github.com/Asad101001/LegalEaseAI" title="LegalEaseAI Repository">
+        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/legaleaseai/legalease.webp" width="160" height="92" alt="LegalEaseAI Preview" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
+      </a>
     </td>
     <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">LegalEaseAI</h3>
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">
+        <a href="https://github.com/Asad101001/LegalEaseAI" style="color: #ffffff; text-decoration: none;" title="LegalEaseAI Repository">LegalEaseAI</a>
+      </h3>
       <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Legal contract risk-rating and document intelligence platform. Leverages PyPDF2 and LangChain to chunk and index complex agreements into a high-performance FAISS vector store, providing semantic clause retrieval, automated risk scoring, bilingual Urdu summaries, and report generation via FastAPI.</p>
       <div style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=05998B" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=chainlink&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/FAISS-0a0a0a?style=flat-square&logo=meta&logoColor=044F88" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Groq_/_Llama_3.3-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/>
+        <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB" height="18" alt="Python"/> &nbsp;
+        <img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=05998B" height="18" alt="FastAPI"/> &nbsp;
+        <img src="https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=chainlink&logoColor=white" height="18" alt="LangChain"/> &nbsp;
+        <img src="https://img.shields.io/badge/FAISS-0a0a0a?style=flat-square&logo=meta&logoColor=044F88" height="18" alt="FAISS"/> &nbsp;
+        <img src="https://img.shields.io/badge/Groq_/_Llama_3.3-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18" alt="Groq / Llama 3.3"/>
       </div>
       <div>
-        <a href="https://github.com/Asad101001/LegalEaseAI"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+        <a href="https://github.com/Asad101001/LegalEaseAI" title="LegalEaseAI Repository"><img src="https://img.shields.io/badge/LegalEaseAI_Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22" alt="LegalEaseAI Repository"/></a>
       </div>
     </td>
   </tr>
@@ -264,21 +313,25 @@
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.webp" width="160" height="92" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
+      <a href="https://github.com/Asad101001/pollpulse" title="PollPulse Repository">
+        <img src="https://muhammadasad-portfolio.vercel.app/images/projects/pollpulse/pollpulse.webp" width="160" height="92" alt="PollPulse Preview" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a; object-fit: cover; aspect-ratio: 16/9;"/>
+      </a>
     </td>
     <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">PollPulse</h3>
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">
+        <a href="https://github.com/Asad101001/pollpulse" style="color: #ffffff; text-decoration: none;" title="PollPulse Repository">PollPulse</a>
+      </h3>
       <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Scalable real-time polling infrastructure deployed on AWS. Architected with custom VPC subnets isolating EC2 compute instances and RDS MySQL databases, utilizing Chart.js for real-time response aggregation, JWT security, and Nginx reverse proxying.</p>
       <div style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/AWS_VPC-0a0a0a?style=flat-square&logo=amazonaws&logoColor=FF9900" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/MySQL_RDS-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Nginx-0a0a0a?style=flat-square&logo=nginx&logoColor=009639" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Chart.js-0a0a0a?style=flat-square&logo=chartdotjs&logoColor=FF6384" height="18"/>
+        <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18" alt="Node.js"/> &nbsp;
+        <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18" alt="Express"/> &nbsp;
+        <img src="https://img.shields.io/badge/AWS_VPC-0a0a0a?style=flat-square&logo=amazonaws&logoColor=FF9900" height="18" alt="AWS VPC"/> &nbsp;
+        <img src="https://img.shields.io/badge/MySQL_RDS-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1" height="18" alt="MySQL RDS"/> &nbsp;
+        <img src="https://img.shields.io/badge/Nginx-0a0a0a?style=flat-square&logo=nginx&logoColor=009639" height="18" alt="Nginx"/> &nbsp;
+        <img src="https://img.shields.io/badge/Chart.js-0a0a0a?style=flat-square&logo=chartdotjs&logoColor=FF6384" height="18" alt="Chart.js"/>
       </div>
       <div>
-        <a href="https://github.com/Asad101001/pollpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+        <a href="https://github.com/Asad101001/pollpulse" title="PollPulse Repository"><img src="https://img.shields.io/badge/pollpulse_Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22" alt="PollPulse Repository"/></a>
       </div>
     </td>
   </tr>
@@ -321,22 +374,22 @@
 
 <div align="center">
 
-<a href="https://discord.com/users/1390327957062418654"><img src="https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
+<a href="https://discord.com/users/1390327957062418654" title="Connect on Discord"><img src="https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
 &nbsp;
-<a href="https://www.instagram.com/muhammadasad.k_/"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://www.instagram.com/muhammadasad.k_/" title="Follow Muhammad Asad Khan on Instagram"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
 &nbsp;
-<a href="https://open.spotify.com/user/31ldw4ockaqhvr4syjpxp6hv4dge"><img src="https://img.shields.io/badge/Spotify-0a0a0a?style=for-the-badge&logo=spotify&logoColor=1ED760"/></a>
+<a href="https://open.spotify.com/user/31ldw4ockaqhvr4syjpxp6hv4dge" title="Muhammad Asad Khan on Spotify"><img src="https://img.shields.io/badge/Spotify-0a0a0a?style=for-the-badge&logo=spotify&logoColor=1ED760" alt="Spotify"/></a>
 
 <br/><br/>
 
-<a href="mailto:muhammadasadk42@gmail.com">
-  <img src="https://img.shields.io/badge/Available_for_Collabs_&_Internships_—_Ping_Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:muhammadasadk42@gmail.com" title="Email Muhammad Asad Khan">
+  <img src="https://img.shields.io/badge/Available_for_Collabs_&_Internships_—_Ping_Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" alt="Ping Me on Gmail"/>
 </a>
 
 <br/><br/>
 
 <!-- Spotify Live Widget -->
-<a href="https://muhammadasad-portfolio.vercel.app/">
+<a href="https://muhammadasad-portfolio.vercel.app/" title="Muhammad Asad Khan Portfolio">
   <img src="https://muhammadasad-portfolio.vercel.app/api/spotify-svg" alt="Spotify Currently Playing" width="450" />
 </a>
 
