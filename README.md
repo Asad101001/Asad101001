@@ -152,7 +152,7 @@
         <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248" height="18"/>
       </div>
       <div>
-        <a href="https://github.com/Asad101001/AntigravityHackathon"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+        <a href="https://github.com/Asad101001/Asaaniyat"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
@@ -160,7 +160,57 @@
 
 <br/>
 
-<!-- Project 2: MogScope -->
+<!-- Project 2: UBIT GPA Calculator & Results Hub -->
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+  <tr>
+    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
+      <img src="https://raw.githubusercontent.com/Asad101001/ubit-gpa-calculator/main/public/images/og-preview.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+    </td>
+    <td valign="top" style="padding: 16px 20px;">
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">UBIT GPA Calculator & Results Hub</h3>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">High-performance neo-brutalist academic portal for DCS UBIT (University of Karachi). Implements exact 4.0 grading algorithms, target CGPA simulation, batch result inspection with seat deduplication, and student privacy controls with Supabase Row-Level Security.</p>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/React_19-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178C6" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Vite-0a0a0a?style=flat-square&logo=vite&logoColor=646CFF" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/TailwindCSS-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=3ECF8E" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169E1" height="18"/>
+      </div>
+      <div>
+        <a href="https://github.com/Asad101001/ubit-gpa-calculator"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Project 3: World Cup Simulator -->
+<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
+  <tr>
+    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
+      <img src="https://raw.githubusercontent.com/Asad101001/wc-simulator/main/assets/bg.png" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
+    </td>
+    <td valign="top" style="padding: 16px 20px;">
+      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">World Cup Simulator</h3>
+      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Pure C++ knockout stage tournament simulator mirroring the 32-team FIFA 2026 bracket. Built with custom binary bracket trees, stochastic win-probability models derived from FIFA world rankings, and dynamic 60 FPS visual rendering powered by Raylib without STL dependencies.</p>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=c%2B%2B&logoColor=00599C" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Raylib-0a0a0a?style=flat-square&logo=raylib&logoColor=white" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Binary_Trees-0a0a0a?style=flat-square&logo=git&logoColor=F05032" height="18"/> &nbsp;
+        <img src="https://img.shields.io/badge/Win32-0a0a0a?style=flat-square&logo=windows&logoColor=0078D6" height="18"/>
+      </div>
+      <div>
+        <a href="https://github.com/Asad101001/wc-simulator"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Project 4: MogScope -->
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
@@ -185,7 +235,7 @@
 
 <br/>
 
-<!-- Project 3: LegalEaseAI -->
+<!-- Project 5: LegalEaseAI -->
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
@@ -210,7 +260,7 @@
 
 <br/>
 
-<!-- Project 4: PollPulse -->
+<!-- Project 6: PollPulse -->
 <table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
   <tr>
     <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
@@ -229,33 +279,6 @@
       </div>
       <div>
         <a href="https://github.com/Asad101001/pollpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Project 5: DevPulse -->
-<table width="640" style="border-collapse: collapse; border: 1px solid #1c1c1c; border-radius: 12px; background-color: #080808; overflow: hidden; margin-bottom: 20px; text-align: left;">
-  <tr>
-    <td width="160" valign="top" style="padding: 16px; padding-right: 0;">
-      <img src="https://muhammadasad-portfolio.vercel.app/images/projects/devpulse/devpulse.webp" width="160" style="display: block; border-radius: 8px; border: 1px solid #1a1a1a;"/>
-    </td>
-    <td valign="top" style="padding: 16px 20px;">
-      <h3 style="margin: 0 0 6px 0; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color: #ffffff;">DevPulse</h3>
-      <p style="margin: 0 0 12px 0; color: #aaaaaa; font-size: 0.85rem; line-height: 1.4; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">Developer cognitive load and burnout analyzer. Integrates GitHub Webhooks to intercept commit logs, applying Llama 3.3 sentiment analysis and telemetry heuristics to detect developer stress indicators, track coding patterns, and render interactive analytics dashboards.</p>
-      <div style="margin-bottom: 12px;">
-        <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/GitHub_Webhooks-0a0a0a?style=flat-square&logo=github&logoColor=white" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Groq_/_Llama_3.3-0a0a0a?style=flat-square&logo=groq&logoColor=orange" height="18"/> &nbsp;
-        <img src="https://img.shields.io/badge/Chart.js-0a0a0a?style=flat-square&logo=chartdotjs&logoColor=FF6384" height="18"/>
-      </div>
-      <div>
-        <a href="https://github.com/Asad101001/devpulse"><img src="https://img.shields.io/badge/Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
       </div>
     </td>
   </tr>
