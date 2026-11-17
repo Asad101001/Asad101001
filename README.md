@@ -12,8 +12,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F7F6F3,50:FDE68A,100:F59E0B&height=120&section=header">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:2A1E0B,100:F59E0B&height=120&section=header" width="100%" alt="Muhammad Asad Khan Header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:121212%2C50:2A1E0B%2C100:F59E0B&height=120&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7F6F3%2C50:FDE68A%2C100:F59E0B&height=120&section=header" width="100%" alt="Muhammad Asad Khan Header"/>
 </picture>
 
 <h1 align="center">Muhammad Asad Khan</h1>
@@ -35,8 +35,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:F7F6F3,100:EFECE6&height=52&text=%E2%97%88+ABOUT&fontSize=15&fontColor=B45309&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:1c1c1c&height=52&text=%E2%97%88+ABOUT&fontSize=15&fontColor=F59E0B&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%" alt="About Section Header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:121212%2C100:1c1c1c&height=52&text=%E2%97%88+ABOUT&fontSize=15&fontColor=F59E0B&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F7F6F3%2C100:EFECE6&height=52&text=%E2%97%88+ABOUT&fontSize=15&fontColor=B45309&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%" alt="About Section Header"/>
 </picture>
 
 <br/>
@@ -53,8 +53,8 @@
   <tr>
     <td align="left">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=121212&background=F7F6F3&multiline=true&repeat=true&width=620&height=265&lines=asad%402006%20~%20%24%20whoami;%E2%86%B3%20Muhammad%20Asad%20Khan%20%C2%B7%20CS%20%40%20UBIT%20'28%20%C2%B7%20Karachi%2C%20PK;asad%402006%20~%20%24%20cat%20focus.txt;%E2%86%B3%20Cloud%20Infrastructure%20%C2%B7%20Multi-Agent%20Workflows;asad%402006%20~%20%24%20cat%20exploring.txt;%E2%86%B3%20Diving%20into%20Agentic%20AI%20%26%20System%20Design;asad%402006%20~%20%24%20cat%20philosophy.txt;%E2%86%B3%20%22Build%20broken%20things%2C%20learn%20why%20they're%20broken%2C%20unbreak%20them.%22;asad%402006%20~%20%24%20echo%20%24STATUS;%E2%86%B3%20Open%20to%20collabs%20%26%20learning%20%E2%96%AE">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=F59E0B&background=0D0D0D&multiline=true&repeat=true&width=620&height=265&lines=asad%402006%20~%20%24%20whoami;%E2%86%B3%20Muhammad%20Asad%20Khan%20%C2%B7%20CS%20%40%20UBIT%20'28%20%C2%B7%20Karachi%2C%20PK;asad%402006%20~%20%24%20cat%20focus.txt;%E2%86%B3%20Cloud%20Infrastructure%20%C2%B7%20Multi-Agent%20Workflows;asad%402006%20~%20%24%20cat%20exploring.txt;%E2%86%B3%20Diving%20into%20Agentic%20AI%20%26%20System%20Design;asad%402006%20~%20%24%20cat%20philosophy.txt;%E2%86%B3%20%22Build%20broken%20things%2C%20learn%20why%20they're%20broken%2C%20unbreak%20them.%22;asad%402006%20~%20%24%20echo%20%24STATUS;%E2%86%B3%20Open%20to%20collabs%20%26%20learning%20%E2%96%AE" alt="Muhammad Asad Khan Terminal" width="620" height="265"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=F59E0B&background=0D0D0D&multiline=true&repeat=true&width=620&height=265&lines=asad%402006%20~%20%24%20whoami;%E2%86%B3%20Muhammad%20Asad%20Khan%20%C2%B7%20CS%20%40%20UBIT%20'28%20%C2%B7%20Karachi%2C%20PK;asad%402006%20~%20%24%20cat%20focus.txt;%E2%86%B3%20Cloud%20Infrastructure%20%C2%B7%20Multi-Agent%20Workflows;asad%402006%20~%20%24%20cat%20exploring.txt;%E2%86%B3%20Diving%20into%20Agentic%20AI%20%26%20System%20Design;asad%402006%20~%20%24%20cat%20philosophy.txt;%E2%86%B3%20%22Build%20broken%20things%2C%20learn%20why%20they're%20broken%2C%20unbreak%20them.%22;asad%402006%20~%20%24%20echo%20%24STATUS;%E2%86%B3%20Open%20to%20collabs%20%26%20learning%20%E2%96%AE">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=700&color=121212&background=F7F6F3&multiline=true&repeat=true&width=620&height=265&lines=asad%402006%20~%20%24%20whoami;%E2%86%B3%20Muhammad%20Asad%20Khan%20%C2%B7%20CS%20%40%20UBIT%20'28%20%C2%B7%20Karachi%2C%20PK;asad%402006%20~%20%24%20cat%20focus.txt;%E2%86%B3%20Cloud%20Infrastructure%20%C2%B7%20Multi-Agent%20Workflows;asad%402006%20~%20%24%20cat%20exploring.txt;%E2%86%B3%20Diving%20into%20Agentic%20AI%20%26%20System%20Design;asad%402006%20~%20%24%20cat%20philosophy.txt;%E2%86%B3%20%22Build%20broken%20things%2C%20learn%20why%20they're%20broken%2C%20unbreak%20them.%22;asad%402006%20~%20%24%20echo%20%24STATUS;%E2%86%B3%20Open%20to%20collabs%20%26%20learning%20%E2%96%AE" alt="Muhammad Asad Khan Terminal" width="620" height="265"/>
       </picture>
     </td>
   </tr>
@@ -65,8 +65,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:F7F6F3,100:EFECE6&height=52&text=%E2%97%88+TECH+STACK&fontSize=15&fontColor=B45309&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:1c1c1c&height=52&text=%E2%97%88+TECH+STACK&fontSize=15&fontColor=F59E0B&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%" alt="Tech Stack Section Header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:121212%2C100:1c1c1c&height=52&text=%E2%97%88+TECH+STACK&fontSize=15&fontColor=F59E0B&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F7F6F3%2C100:EFECE6&height=52&text=%E2%97%88+TECH+STACK&fontSize=15&fontColor=B45309&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%" alt="Tech Stack Section Header"/>
 </picture>
 
 <br/>
@@ -153,8 +153,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:F7F6F3,100:EFECE6&height=52&text=%E2%97%88+PROJECTS&fontSize=15&fontColor=B45309&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:1c1c1c&height=52&text=%E2%97%88+PROJECTS&fontSize=15&fontColor=F59E0B&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%" alt="Projects Section Header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:121212%2C100:1c1c1c&height=52&text=%E2%97%88+PROJECTS&fontSize=15&fontColor=F59E0B&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F7F6F3%2C100:EFECE6&height=52&text=%E2%97%88+PROJECTS&fontSize=15&fontColor=B45309&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%" alt="Projects Section Header"/>
 </picture>
 
 <br/>
@@ -345,8 +345,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:F7F6F3,100:EFECE6&height=52&text=%E2%97%88+GITHUB+STATS&fontSize=15&fontColor=B45309&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:1c1c1c&height=52&text=%E2%97%88+GITHUB+STATS&fontSize=15&fontColor=F59E0B&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%" alt="GitHub Stats Section Header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:121212%2C100:1c1c1c&height=52&text=%E2%97%88+GITHUB+STATS&fontSize=15&fontColor=F59E0B&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F7F6F3%2C100:EFECE6&height=52&text=%E2%97%88+GITHUB+STATS&fontSize=15&fontColor=B45309&animation=fadeIn&fontAlignY=62&font=JetBrains+Mono" width="100%" alt="GitHub Stats Section Header"/>
 </picture>
 
 <br/>
@@ -358,14 +358,14 @@
   <tr>
     <td align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-asad101001.vercel.app/api?username=Asad101001&show_icons=true&include_all_commits=true&count_private=true&bg_color=F7F6F3&title_color=D97706&text_color=121212&icon_color=F59E0B&border_color=FDE68A&border_radius=12">
-        <img src="https://github-readme-stats-asad101001.vercel.app/api?username=Asad101001&show_icons=true&include_all_commits=true&count_private=true&bg_color=121212&title_color=F59E0B&text_color=E2E8F0&icon_color=F59E0B&border_color=27272A&border_radius=12" alt="GitHub Contribution Stats & Grade" height="195"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-asad101001.vercel.app/api?username=Asad101001&show_icons=true&include_all_commits=true&count_private=true&bg_color=121212&title_color=F59E0B&text_color=E2E8F0&icon_color=F59E0B&border_color=27272A&border_radius=12">
+        <img src="https://github-readme-stats-asad101001.vercel.app/api?username=Asad101001&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=D97706&text_color=121212&icon_color=F59E0B&border_color=E5E7EB&border_radius=12" alt="GitHub Contribution Stats & Grade" height="195"/>
       </picture>
     </td>
     <td align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Asad101001&theme=light&background=F7F6F3&ring=D97706&fire=D97706&currStreakNum=121212&sideNums=121212&currStreakLabel=D97706&sideLabels=71717A&dates=71717A&stroke=FDE68A&border_radius=12&border=FDE68A">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Asad101001&theme=dark&background=121212&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&sideNums=E2E8F0&currStreakLabel=F59E0B&sideLabels=A1A1AA&dates=71717A&stroke=27272A&border_radius=12&border=27272A" alt="GitHub Streak Stats" height="195"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Asad101001&theme=dark&background=121212&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&sideNums=E2E8F0&currStreakLabel=F59E0B&sideLabels=A1A1AA&dates=71717A&stroke=27272A&border_radius=12&border=27272A">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Asad101001&theme=light&background=FFFFFF&ring=D97706&fire=D97706&currStreakNum=121212&sideNums=121212&currStreakLabel=D97706&sideLabels=71717A&dates=71717A&stroke=E5E7EB&border_radius=12&border=E5E7EB" alt="GitHub Streak Stats" height="195"/>
       </picture>
     </td>
   </tr>
@@ -375,16 +375,16 @@
 
 <!-- Top Languages Card -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-asad101001.vercel.app/api/top-langs/?username=Asad101001&layout=compact&bg_color=F7F6F3&title_color=D97706&text_color=121212&border_color=FDE68A&border_radius=12">
-  <img src="https://github-readme-stats-asad101001.vercel.app/api/top-langs/?username=Asad101001&layout=compact&bg_color=121212&title_color=F59E0B&text_color=E2E8F0&border_color=27272A&border_radius=12" alt="Top Languages" height="165"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-asad101001.vercel.app/api/top-langs/?username=Asad101001&layout=compact&bg_color=121212&title_color=F59E0B&text_color=E2E8F0&border_color=27272A&border_radius=12">
+  <img src="https://github-readme-stats-asad101001.vercel.app/api/top-langs/?username=Asad101001&layout=compact&bg_color=FFFFFF&title_color=D97706&text_color=121212&border_color=E5E7EB&border_radius=12" alt="Top Languages" height="165"/>
 </picture>
 
 <br/><br/>
 
 <!-- Contribution Snake (Adaptive Dark / Light) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asad101001/Asad101001/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/Asad101001/Asad101001/output/github-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asad101001/Asad101001/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Asad101001/Asad101001/output/github-snake.svg" alt="GitHub Contribution Snake Animation"/>
 </picture>
 
 <br/><br/>
@@ -394,8 +394,8 @@
   <summary><b>🧊 View 3D Isometric Contribution Graph</b></summary>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asad101001/Asad101001/main/profile-3d-contrib/profile-green.svg">
-    <img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/profile-3d-contrib/profile-night-view.svg" alt="3D Isometric Contribution Graph" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asad101001/Asad101001/main/profile-3d-contrib/profile-night-view.svg">
+    <img src="https://raw.githubusercontent.com/Asad101001/Asad101001/main/profile-3d-contrib/profile-green.svg" alt="3D Isometric Contribution Graph" width="100%"/>
   </picture>
 </details>
 
@@ -405,7 +405,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:FDE68A,100:F7F6F3&height=110&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:2A1E0B,100:121212&height=110&section=footer" width="100%" alt="Footer Banner"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B%2C50:2A1E0B%2C100:121212&height=110&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B%2C50:FDE68A%2C100:F7F6F3&height=110&section=footer" width="100%" alt="Footer Banner"/>
   </picture>
 </div>
